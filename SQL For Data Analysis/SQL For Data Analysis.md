@@ -17,7 +17,7 @@ This is the phase handled by the Data Analyst.
 The final dashboard or report.
 
 
-# QUERIES AND ANALYSIS HAVE 5 STEPS:
+# Steps of Queries and Analysis:
 
 - Exploration:
 
@@ -39,7 +39,7 @@ Preparing the data for analysis by ensuring it's ready and available for statist
 
 Initiating analysis based on awaited results and business objectives.
 
-# Window Function:
+# Window Functions:
 
 - Over()
 
