@@ -6,7 +6,7 @@ This is where the data was downloaded from the internet, which is the Web Page.
 
 - Data Warehouse:
 
-The location where I stored the data in PostgreSQL after downloading it.
+The location where I stored the data after downloading it to work on it such PostgreSQL.
 
 - Queries and Analysis:
 
@@ -29,7 +29,7 @@ Understanding the data distribution to comprehend analysis impact, considering f
 
 - Cleaning:
 
-Vital data cleansing tasks such as removing special characters from strings or handling null values in alignment with business requirements.
+Vital data cleaning tasks such as removing special characters from strings or handling null values in alignment with business requirements.
 
 - Shape:
 
@@ -40,6 +40,8 @@ Preparing the data for analysis by ensuring it's ready and available for statist
 Initiating analysis based on awaited results and business objectives.
 
 # Window Functions:
+
+- Role of Window Functions 
 
 - Over()
 
