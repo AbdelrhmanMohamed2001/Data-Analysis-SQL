@@ -158,7 +158,7 @@ select top 1
 	order by sum(Balance) Desc
 	
 
---Customer Who Have The Maximum Balance
+--Customer Who Have The Minimum Balance
 select top 1
 	Customer_ID,
 	Name,
