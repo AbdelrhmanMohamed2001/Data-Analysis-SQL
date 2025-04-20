@@ -26,6 +26,14 @@ select
 	group by Hospital
 	order by count(Room_Number) Desc
 
+--Billing Amount in Each Year
+select
+	Year(Date_Of_Admission) as Year,
+	sum(Billing_Amount) as TotalCost
+	from Healthcare
+	group by Year(Date_Of_Admission)
+	order by sum(Billing_Amount) Desc
+
 ----------------------------------🧍‍♂️ Patient Demographics--------------------------------
 
 --Total Patients By Gender
