@@ -72,7 +72,7 @@ select
 		 when Age between 51 and 60 then 'Group_4 (51-60)'
 		 when Age between 61 and 70 then 'Group_5 (61-70)'
 		 when Age between 71 and 80 then 'Group_6 (71-80)'
-		 else 'Group_7 Bigger than 50'
+		 else 'Group_7 Bigger than 80'
 		 end as AgeGroup
 		 from Healthcare
 		 ) as AgeGroups
