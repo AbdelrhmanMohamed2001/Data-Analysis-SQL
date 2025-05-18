@@ -1,0 +1,307 @@
+match_id,Gameweek,Date,Time,Result,Home team,Away team,Day,HomeGoals,AwayGoals,Status,Season
+2015000,1,10/20/2015,5:00 PM,2:00,El Dakhlia,El Mokawloon,Tuesday,2,0,HomeWin,2015-2016
+2015001,1,10/20/2015,7:45 PM,2:02,Enppi SC,Harras Hodoud,Tuesday,2,2,Draw,2015-2016
+2015002,1,10/21/2015,2:45 PM,1:00,Ittihad Alex,Aswan SC,Wednesday,1,0,HomeWin,2015-2016
+2015003,1,10/21/2015,5:00 PM,2:00,Ismaily,Entag El Harby,Wednesday,2,0,HomeWin,2015-2016
+2015004,1,10/21/2015,7:45 PM,2:00,Zamalek,Wadi Degla,Wednesday,2,0,HomeWin,2015-2016
+2015005,1,10/22/2015,2:45 PM,0:01,El Mahalla,Smouha,Thursday,0,1,AwayWin,2015-2016
+2015006,1,10/22/2015,5:00 PM,1:01,El Makasa,El Shorta,Thursday,1,1,Draw,2015-2016
+2015007,1,10/22/2015,4:00 PM,1:03,Petrojet,El Masry,Thursday,1,3,AwayWin,2015-2016
+2015008,1,10/22/2015,7:45 PM,0:01,Talaea El Gaish,Ahly SC,Thursday,0,1,AwayWin,2015-2016
+2015009,2,10/24/2015,2:45 PM,0:01,Harras Hodoud,El Dakhlia,Saturday,0,1,AwayWin,2015-2016
+2015010,2,10/24/2015,5:00 PM,0:01,Entag El Harby,Ittihad Alex,Saturday,0,1,AwayWin,2015-2016
+2015011,2,10/24/2015,7:45 PM,0:00,El Mokawloon,Ismaily,Saturday,0,0,Draw,2015-2016
+2015012,2,10/25/2015,1:45 PM,0:03,Smouha,Petrojet,Sunday,0,3,AwayWin,2015-2016
+2015013,2,10/25/2015,4:00 PM,0:00,Aswan SC,Zamalek,Sunday,0,0,Draw,2015-2016
+2015014,2,10/25/2015,3:00 PM,1:01,El Masry,El Makasa,Sunday,1,1,Draw,2015-2016
+2015015,2,10/25/2015,6:45 PM,2:00,Ahly SC,El Mahalla,Sunday,2,0,HomeWin,2015-2016
+2015016,2,10/26/2015,4:00 PM,0:00,El Shorta,Enppi SC,Monday,0,0,Draw,2015-2016
+2015017,2,10/26/2015,6:45 PM,3:03,Wadi Degla,Talaea El Gaish,Monday,3,3,Draw,2015-2016
+2015018,3,10/31/2015,1:45 PM,0:02,El Mahalla,Wadi Degla,Saturday,0,2,AwayWin,2015-2016
+2015019,3,10/31/2015,12:45 PM,2:01,Enppi SC,El Masry,Saturday,2,1,HomeWin,2015-2016
+2015020,3,10/31/2015,4:00 PM,2:00,El Makasa,Smouha,Saturday,2,0,HomeWin,2015-2016
+2015021,3,10/31/2015,3:00 PM,1:01,Ittihad Alex,El Mokawloon,Saturday,1,1,Draw,2015-2016
+2015022,3,10/31/2015,6:45 PM,2:01,Zamalek,Entag El Harby,Saturday,2,1,HomeWin,2015-2016
+2015023,3,11/1/2015,1:45 PM,1:01,Talaea El Gaish,Aswan SC,Sunday,1,1,Draw,2015-2016
+2015024,3,11/1/2015,12:45 PM,1:01,El Shorta,Harras Hodoud,Sunday,1,1,Draw,2015-2016
+2015025,3,11/1/2015,4:00 PM,0:01,Petrojet,Ahly SC,Sunday,0,1,AwayWin,2015-2016
+2015026,3,11/1/2015,6:45 PM,0:01,Ismaily,El Dakhlia,Sunday,0,1,AwayWin,2015-2016
+2015027,4,11/4/2015,5:00 PM,1:02,El Mokawloon,Zamalek,Wednesday,1,2,AwayWin,2015-2016
+2015028,4,11/5/2015,4:00 PM,1:01,Smouha,Enppi SC,Thursday,1,1,Draw,2015-2016
+2015029,4,11/5/2015,6:45 PM,0:01,Ahly SC,El Makasa,Thursday,0,1,AwayWin,2015-2016
+2015030,4,11/7/2015,1:45 PM,2:00,El Dakhlia,Ittihad Alex,Saturday,2,0,HomeWin,2015-2016
+2015031,4,11/7/2015,12:45 PM,1:00,El Masry,El Shorta,Saturday,1,0,HomeWin,2015-2016
+2015032,4,11/7/2015,4:00 PM,0:04,Harras Hodoud,Ismaily,Saturday,0,4,AwayWin,2015-2016
+2015033,4,11/7/2015,6:45 PM,3:00,Wadi Degla,Petrojet,Saturday,3,0,HomeWin,2015-2016
+2015034,4,11/8/2015,4:00 PM,0:00,Aswan SC,El Mahalla,Sunday,0,0,Draw,2015-2016
+2015035,4,11/8/2015,6:45 PM,2:01,Entag El Harby,Talaea El Gaish,Sunday,2,1,HomeWin,2015-2016
+2015036,5,11/12/2015,1:45 PM,1:01,El Makasa,Wadi Degla,Thursday,1,1,Draw,2015-2016
+2015037,5,11/12/2015,4:00 PM,0:05,Ittihad Alex,Ismaily,Thursday,0,5,AwayWin,2015-2016
+2015038,5,11/12/2015,6:30 PM,2:01,Talaea El Gaish,El Mokawloon,Thursday,2,1,HomeWin,2015-2016
+2015039,5,11/15/2015,1:45 PM,1:01,Petrojet,Aswan SC,Sunday,1,1,Draw,2015-2016
+2015040,5,11/15/2015,4:00 PM,0:01,El Mahalla,Entag El Harby,Sunday,0,1,AwayWin,2015-2016
+2015041,5,11/15/2015,6:30 PM,3:02,El Masry,Harras Hodoud,Sunday,3,2,HomeWin,2015-2016
+2015042,5,11/19/2015,5:00 PM,0:02,El Shorta,Smouha,Thursday,0,2,AwayWin,2015-2016
+2015043,5,1/5/2016,5:00 PM,2:00,Zamalek,El Dakhlia,Tuesday,2,0,HomeWin,2015-2016
+2015044,5,2/3/2016,7:00 PM,0:02,Enppi SC,Ahly SC,Wednesday,0,2,AwayWin,2015-2016
+2015045,6,11/26/2015,1:45 PM,0:00,El Mokawloon,El Mahalla,Thursday,0,0,Draw,2015-2016
+2015046,6,11/26/2015,4:00 PM,0:01,Harras Hodoud,Ittihad Alex,Thursday,0,1,AwayWin,2015-2016
+2015047,6,11/26/2015,6:30 PM,0:00,El Dakhlia,Talaea El Gaish,Thursday,0,0,Draw,2015-2016
+2015048,6,11/28/2015,1:45 PM,2:03,Aswan SC,El Makasa,Saturday,2,3,AwayWin,2015-2016
+2015049,6,11/28/2015,4:00 PM,1:01,Smouha,El Masry,Saturday,1,1,Draw,2015-2016
+2015050,6,11/28/2015,6:30 PM,0:00,Entag El Harby,Petrojet,Saturday,0,0,Draw,2015-2016
+2015051,6,1/7/2016,5:00 PM,7:03,Ahly SC,El Shorta,Thursday,7,3,HomeWin,2015-2016
+2015052,6,2/3/2016,4:00 PM,1:00,Ismaily,Zamalek,Wednesday,1,0,HomeWin,2015-2016
+2015053,6,2/21/2016,6:45 PM,2:03,Wadi Degla,Enppi SC,Sunday,2,3,AwayWin,2015-2016
+2015054,7,12/6/2015,1:30 PM,1:01,El Mahalla,El Dakhlia,Sunday,1,1,Draw,2015-2016
+2015055,7,12/6/2015,4:00 PM,0:02,Petrojet,El Mokawloon,Sunday,0,2,AwayWin,2015-2016
+2015056,7,12/7/2015,1:30 PM,2:01,El Makasa,Entag El Harby,Monday,2,1,HomeWin,2015-2016
+2015057,7,12/7/2015,6:30 PM,3:02,Enppi SC,Aswan SC,Monday,3,2,HomeWin,2015-2016
+2015058,7,12/10/2015,4:00 PM,2:02,Smouha,Harras Hodoud,Thursday,2,2,Draw,2015-2016
+2015059,7,2/2/2016,4:00 PM,0:00,El Shorta,Wadi Degla,Tuesday,0,0,Draw,2015-2016
+2015060,7,2/21/2016,4:00 PM,1:02,Talaea El Gaish,Ismaily,Sunday,1,2,AwayWin,2015-2016
+2015061,7,2/22/2016,7:00 PM,2:01,Zamalek,Ittihad Alex,Monday,2,1,HomeWin,2015-2016
+2015062,7,2/23/2016,5:00 PM,2:02,El Masry,Ahly SC,Tuesday,2,2,Draw,2015-2016
+2015063,8,12/14/2015,1:30 PM,1:04,El Mokawloon,El Makasa,Monday,1,4,AwayWin,2015-2016
+2015064,8,12/14/2015,4:00 PM,1:00,Ittihad Alex,Talaea El Gaish,Monday,1,0,HomeWin,2015-2016
+2015065,8,12/14/2015,6:45 PM,0:00,Entag El Harby,Enppi SC,Monday,0,0,Draw,2015-2016
+2015066,8,12/15/2015,1:00 PM,2:01,Aswan SC,El Shorta,Tuesday,2,1,HomeWin,2015-2016
+2015067,8,12/15/2015,4:00 PM,3:01,Ismaily,El Mahalla,Tuesday,3,1,HomeWin,2015-2016
+2015068,8,12/15/2015,6:45 PM,1:00,El Dakhlia,Petrojet,Tuesday,1,0,HomeWin,2015-2016
+2015069,8,12/17/2015,2:00 PM,0:02,Harras Hodoud,Zamalek,Thursday,0,2,AwayWin,2015-2016
+2015070,8,12/17/2015,4:00 PM,0:02,Wadi Degla,El Masry,Thursday,0,2,AwayWin,2015-2016
+2015071,8,12/17/2015,8:15 PM,0:03,Ahly SC,Smouha,Thursday,0,3,AwayWin,2015-2016
+2015072,9,12/19/2015,4:00 PM,0:00,El Shorta,Entag El Harby,Saturday,0,0,Draw,2015-2016
+2015073,9,12/19/2015,6:45 PM,3:01,Enppi SC,El Mokawloon,Saturday,3,1,HomeWin,2015-2016
+2015074,9,12/20/2015,1:30 PM,0:01,El Mahalla,Ittihad Alex,Sunday,0,1,AwayWin,2015-2016
+2015075,9,12/20/2015,12:30 PM,0:01,El Makasa,El Dakhlia,Sunday,0,1,AwayWin,2015-2016
+2015076,9,12/20/2015,4:00 PM,1:00,Petrojet,Ismaily,Sunday,1,0,HomeWin,2015-2016
+2015077,9,12/20/2015,6:45 PM,3:02,Talaea El Gaish,Zamalek,Sunday,3,2,HomeWin,2015-2016
+2015078,9,12/21/2015,1:00 PM,3:02,El Masry,Aswan SC,Monday,3,2,HomeWin,2015-2016
+2015079,9,12/21/2015,4:00 PM,2:00,Smouha,Wadi Degla,Monday,2,0,HomeWin,2015-2016
+2015080,9,12/22/2015,5:00 PM,3:00,Ahly SC,Harras Hodoud,Tuesday,3,0,HomeWin,2015-2016
+2015081,10,12/23/2015,1:30 PM,1:04,Ismaily,El Makasa,Wednesday,1,4,AwayWin,2015-2016
+2015082,10,12/23/2015,4:00 PM,0:02,Ittihad Alex,Petrojet,Wednesday,0,2,AwayWin,2015-2016
+2015083,10,12/23/2015,6:45 PM,5:00,Zamalek,El Mahalla,Wednesday,5,0,HomeWin,2015-2016
+2015084,10,12/25/2015,1:30 PM,0:00,Aswan SC,Smouha,Friday,0,0,Draw,2015-2016
+2015085,10,12/25/2015,4:00 PM,0:00,Entag El Harby,El Masry,Friday,0,0,Draw,2015-2016
+2015086,10,12/25/2015,6:45 PM,4:04,El Dakhlia,Enppi SC,Friday,4,4,Draw,2015-2016
+2015087,10,12/26/2015,1:30 PM,0:00,El Mokawloon,El Shorta,Saturday,0,0,Draw,2015-2016
+2015088,10,12/26/2015,4:00 PM,0:01,Harras Hodoud,Talaea El Gaish,Saturday,0,1,AwayWin,2015-2016
+2015089,10,12/26/2015,6:45 PM,0:00,Wadi Degla,Ahly SC,Saturday,0,0,Draw,2015-2016
+2015090,11,12/28/2015,1:30 PM,1:01,El Makasa,Ittihad Alex,Monday,1,1,Draw,2015-2016
+2015091,11,12/28/2015,4:30 PM,1:01,Petrojet,Zamalek,Monday,1,1,Draw,2015-2016
+2015092,11,12/29/2015,5:00 PM,3:01,Ahly SC,Aswan SC,Tuesday,3,1,HomeWin,2015-2016
+2015093,11,12/30/2015,1:30 PM,1:01,El Shorta,El Dakhlia,Wednesday,1,1,Draw,2015-2016
+2015094,11,12/30/2015,12:30 PM,1:01,El Mahalla,Talaea El Gaish,Wednesday,1,1,Draw,2015-2016
+2015095,11,12/30/2015,4:00 PM,1:01,Smouha,Entag El Harby,Wednesday,1,1,Draw,2015-2016
+2015096,11,12/30/2015,3:00 PM,3:02,El Masry,El Mokawloon,Wednesday,3,2,HomeWin,2015-2016
+2015097,11,12/30/2015,3:00 PM,0:00,Wadi Degla,Harras Hodoud,Wednesday,0,0,Draw,2015-2016
+2015098,11,12/30/2015,6:45 PM,1:02,Enppi SC,Ismaily,Wednesday,1,2,AwayWin,2015-2016
+2015099,12,1/2/2016,4:00 PM,1:01,El Dakhlia,El Masry,Saturday,1,1,Draw,2015-2016
+2015100,12,1/2/2016,6:45 PM,2:02,Zamalek,El Makasa,Saturday,2,2,Draw,2015-2016
+2015101,12,1/3/2016,1:30 PM,2:02,Harras Hodoud,El Mahalla,Sunday,2,2,Draw,2015-2016
+2015102,12,1/3/2016,12:30 PM,2:01,Aswan SC,Wadi Degla,Sunday,2,1,HomeWin,2015-2016
+2015103,12,1/3/2016,4:00 PM,2:02,Ismaily,El Shorta,Sunday,2,2,Draw,2015-2016
+2015104,12,1/3/2016,6:45 PM,0:01,Entag El Harby,Ahly SC,Sunday,0,1,AwayWin,2015-2016
+2015105,12,1/4/2016,1:30 PM,1:00,Ittihad Alex,Enppi SC,Monday,1,0,HomeWin,2015-2016
+2015106,12,1/4/2016,4:00 PM,0:00,Talaea El Gaish,Petrojet,Monday,0,0,Draw,2015-2016
+2015107,12,1/4/2016,6:45 PM,1:01,El Mokawloon,Smouha,Monday,1,1,Draw,2015-2016
+2015108,13,1/9/2016,1:30 PM,2:00,Petrojet,El Mahalla,Saturday,2,0,HomeWin,2015-2016
+2015109,13,1/9/2016,12:30 PM,1:00,Aswan SC,Harras Hodoud,Saturday,1,0,HomeWin,2015-2016
+2015110,13,1/9/2016,4:00 PM,1:01,El Makasa,Talaea El Gaish,Saturday,1,1,Draw,2015-2016
+2015111,13,1/9/2016,6:45 PM,0:01,Enppi SC,Zamalek,Saturday,0,1,AwayWin,2015-2016
+2015112,13,1/10/2016,3:30 PM,1:00,El Masry,Ismaily,Sunday,1,0,HomeWin,2015-2016
+2015113,13,1/10/2016,6:00 PM,3:01,Ahly SC,El Mokawloon,Sunday,3,1,HomeWin,2015-2016
+2015114,13,1/11/2016,1:30 PM,1:01,El Shorta,Ittihad Alex,Monday,1,1,Draw,2015-2016
+2015115,13,1/11/2016,4:00 PM,1:01,Smouha,El Dakhlia,Monday,1,1,Draw,2015-2016
+2015116,13,1/11/2016,6:45 PM,1:03,Wadi Degla,Entag El Harby,Monday,1,3,AwayWin,2015-2016
+2015117,14,1/13/2016,1:30 PM,0:01,El Mahalla,El Makasa,Wednesday,0,1,AwayWin,2015-2016
+2015118,14,1/13/2016,4:00 PM,0:02,Harras Hodoud,Petrojet,Wednesday,0,2,AwayWin,2015-2016
+2015119,14,1/13/2016,6:45 PM,1:03,Talaea El Gaish,Enppi SC,Wednesday,1,3,AwayWin,2015-2016
+2015120,14,1/14/2016,4:00 PM,2:02,Ismaily,Smouha,Thursday,2,2,Draw,2015-2016
+2015121,14,1/14/2016,6:45 PM,1:01,El Dakhlia,Ahly SC,Thursday,1,1,Draw,2015-2016
+2015122,14,1/15/2016,2:00 PM,2:00,Entag El Harby,Aswan SC,Friday,2,0,HomeWin,2015-2016
+2015123,14,1/15/2016,4:00 PM,1:01,Ittihad Alex,El Masry,Friday,1,1,Draw,2015-2016
+2015124,14,1/15/2016,6:45 PM,0:00,El Mokawloon,Wadi Degla,Friday,0,0,Draw,2015-2016
+2015125,14,1/16/2016,5:00 PM,1:00,Zamalek,El Shorta,Saturday,1,0,HomeWin,2015-2016
+2015126,15,1/18/2016,1:30 PM,0:01,El Makasa,Petrojet,Monday,0,1,AwayWin,2015-2016
+2015127,15,1/18/2016,5:00 PM,3:00,Enppi SC,El Mahalla,Monday,3,0,HomeWin,2015-2016
+2015128,15,1/19/2016,1:30 PM,1:00,Wadi Degla,El Dakhlia,Tuesday,1,0,HomeWin,2015-2016
+2015129,15,1/19/2016,4:00 PM,2:00,Smouha,Ittihad Alex,Tuesday,2,0,HomeWin,2015-2016
+2015130,15,1/19/2016,6:45 PM,3:00,Entag El Harby,Harras Hodoud,Tuesday,3,0,HomeWin,2015-2016
+2015131,15,1/20/2016,1:00 PM,2:01,Aswan SC,El Mokawloon,Wednesday,2,1,HomeWin,2015-2016
+2015132,15,1/20/2016,12:00 PM,1:04,El Shorta,Talaea El Gaish,Wednesday,1,4,AwayWin,2015-2016
+2015133,15,1/20/2016,4:00 PM,1:00,Ahly SC,Ismaily,Wednesday,1,0,HomeWin,2015-2016
+2015134,15,1/20/2016,6:45 PM,0:01,El Masry,Zamalek,Wednesday,0,1,AwayWin,2015-2016
+2015135,16,1/22/2016,2:00 PM,0:00,Petrojet,Enppi SC,Friday,0,0,Draw,2015-2016
+2015136,16,1/23/2016,2:00 PM,0:01,Ittihad Alex,Ahly SC,Saturday,0,1,AwayWin,2015-2016
+2015137,16,1/24/2016,1:30 PM,0:00,El Mahalla,El Shorta,Sunday,0,0,Draw,2015-2016
+2015138,16,1/24/2016,12:30 PM,0:01,Ismaily,Wadi Degla,Sunday,0,1,AwayWin,2015-2016
+2015139,16,1/24/2016,4:00 PM,1:00,El Makasa,Harras Hodoud,Sunday,1,0,HomeWin,2015-2016
+2015140,16,1/24/2016,3:00 PM,1:01,Zamalek,Smouha,Sunday,1,1,Draw,2015-2016
+2015141,16,1/31/2016,1:30 PM,1:01,El Dakhlia,Aswan SC,Sunday,1,1,Draw,2015-2016
+2015142,16,1/31/2016,4:00 PM,3:03,Talaea El Gaish,El Masry,Sunday,3,3,Draw,2015-2016
+2015143,16,1/31/2016,6:45 PM,0:00,El Mokawloon,Entag El Harby,Sunday,0,0,Draw,2015-2016
+2015144,17,2/6/2016,1:30 PM,0:01,Harras Hodoud,El Mokawloon,Saturday,0,1,AwayWin,2015-2016
+2015145,17,2/6/2016,4:00 PM,1:00,El Masry,El Mahalla,Saturday,1,0,HomeWin,2015-2016
+2015146,17,2/6/2016,6:45 PM,3:01,Wadi Degla,Ittihad Alex,Saturday,3,1,HomeWin,2015-2016
+2015147,17,2/6/2016,5:45 PM,2:02,Entag El Harby,El Dakhlia,Saturday,2,2,Draw,2015-2016
+2015148,17,2/7/2016,1:30 PM,0:01,El Shorta,Petrojet,Sunday,0,1,AwayWin,2015-2016
+2015149,17,2/7/2016,12:30 PM,1:01,Aswan SC,Ismaily,Sunday,1,1,Draw,2015-2016
+2015150,17,2/7/2016,4:00 PM,2:02,Smouha,Talaea El Gaish,Sunday,2,2,Draw,2015-2016
+2015151,17,2/7/2016,6:45 PM,1:01,Enppi SC,El Makasa,Sunday,1,1,Draw,2015-2016
+2015152,17,2/9/2016,6:00 PM,2:00,Ahly SC,Zamalek,Tuesday,2,0,HomeWin,2015-2016
+2015153,18,2/11/2016,1:30 PM,1:00,Aswan SC,Ittihad Alex,Thursday,1,0,HomeWin,2015-2016
+2015154,18,2/11/2016,4:00 PM,0:01,Harras Hodoud,Enppi SC,Thursday,0,1,AwayWin,2015-2016
+2015155,18,2/11/2016,3:00 PM,3:00,Entag El Harby,Ismaily,Thursday,3,0,HomeWin,2015-2016
+2015156,18,2/11/2016,6:45 PM,3:01,El Mokawloon,El Dakhlia,Thursday,3,1,HomeWin,2015-2016
+2015157,18,2/13/2016,1:30 PM,4:02,Smouha,El Mahalla,Saturday,4,2,HomeWin,2015-2016
+2015158,18,2/13/2016,4:00 PM,0:00,Talaea El Gaish,Ahly SC,Saturday,0,0,Draw,2015-2016
+2015159,18,2/13/2016,6:45 PM,0:00,El Masry,Petrojet,Saturday,0,0,Draw,2015-2016
+2015160,18,2/14/2016,5:00 PM,1:01,Wadi Degla,Zamalek,Sunday,1,1,Draw,2015-2016
+2015161,18,2/21/2016,1:30 PM,0:00,El Shorta,El Makasa,Sunday,0,0,Draw,2015-2016
+2015162,19,2/16/2016,1:30 PM,1:02,Ittihad Alex,Entag El Harby,Tuesday,1,2,AwayWin,2015-2016
+2015163,19,2/16/2016,4:00 PM,1:00,Ismaily,El Mokawloon,Tuesday,1,0,HomeWin,2015-2016
+2015164,19,2/16/2016,6:45 PM,2:00,El Dakhlia,Harras Hodoud,Tuesday,2,0,HomeWin,2015-2016
+2015165,19,2/17/2016,1:30 PM,3:01,Petrojet,Smouha,Wednesday,3,1,HomeWin,2015-2016
+2015166,19,2/17/2016,4:00 PM,1:03,Enppi SC,El Shorta,Wednesday,1,3,AwayWin,2015-2016
+2015167,19,2/17/2016,6:45 PM,0:02,Talaea El Gaish,Wadi Degla,Wednesday,0,2,AwayWin,2015-2016
+2015168,19,2/18/2016,1:30 PM,2:02,El Makasa,El Masry,Thursday,2,2,Draw,2015-2016
+2015169,19,2/18/2016,4:00 PM,1:01,El Mahalla,Ahly SC,Thursday,1,1,Draw,2015-2016
+2015170,19,2/18/2016,6:45 PM,1:00,Zamalek,Aswan SC,Thursday,1,0,HomeWin,2015-2016
+2015171,20,2/29/2016,4:15 PM,0:00,Harras Hodoud,El Shorta,Monday,0,0,Draw,2015-2016
+2015172,20,3/1/2016,1:45 PM,3:01,El Mokawloon,Ittihad Alex,Tuesday,3,1,HomeWin,2015-2016
+2015173,20,3/1/2016,12:45 PM,0:01,Aswan SC,Talaea El Gaish,Tuesday,0,1,AwayWin,2015-2016
+2015174,20,3/1/2016,4:15 PM,1:01,Wadi Degla,El Mahalla,Tuesday,1,1,Draw,2015-2016
+2015175,20,3/1/2016,3:15 PM,4:00,El Masry,Enppi SC,Tuesday,4,0,HomeWin,2015-2016
+2015176,20,3/1/2016,3:15 PM,4:03,Smouha,El Makasa,Tuesday,4,3,HomeWin,2015-2016
+2015177,20,3/1/2016,7:00 PM,0:01,El Dakhlia,Ismaily,Tuesday,0,1,AwayWin,2015-2016
+2015178,20,3/2/2016,6:00 PM,2:00,Ahly SC,Petrojet,Wednesday,2,0,HomeWin,2015-2016
+2015179,20,3/3/2016,6:00 PM,3:01,Entag El Harby,Zamalek,Thursday,3,1,HomeWin,2015-2016
+2015180,21,3/5/2016,6:00 PM,2:01,Ahly SC,El Makasa,Saturday,2,1,HomeWin,2015-2016
+2015181,21,3/6/2016,6:00 PM,2:00,Zamalek,El Mokawloon,Sunday,2,0,HomeWin,2015-2016
+2015182,21,3/7/2016,1:45 PM,1:02,Ittihad Alex,El Dakhlia,Monday,1,2,AwayWin,2015-2016
+2015183,21,3/7/2016,12:45 PM,0:01,Petrojet,Wadi Degla,Monday,0,1,AwayWin,2015-2016
+2015184,21,3/7/2016,4:15 PM,0:01,El Shorta,El Masry,Monday,0,1,AwayWin,2015-2016
+2015185,21,3/7/2016,7:00 PM,0:01,Enppi SC,Smouha,Monday,0,1,AwayWin,2015-2016
+2015186,21,3/8/2016,1:45 PM,0:01,El Mahalla,Aswan SC,Tuesday,0,1,AwayWin,2015-2016
+2015187,21,3/8/2016,4:15 PM,1:00,Ismaily,Harras Hodoud,Tuesday,1,0,HomeWin,2015-2016
+2015188,21,3/8/2016,7:00 PM,0:00,Talaea El Gaish,Entag El Harby,Tuesday,0,0,Draw,2015-2016
+2015189,22,3/14/2016,2:00 PM,1:01,Smouha,El Shorta,Monday,1,1,Draw,2015-2016
+2015190,22,3/14/2016,4:15 PM,3:01,Harras Hodoud,El Masry,Monday,3,1,HomeWin,2015-2016
+2015191,22,3/14/2016,7:00 PM,1:00,Entag El Harby,El Mahalla,Monday,1,0,HomeWin,2015-2016
+2015192,22,3/15/2016,2:00 PM,2:01,Aswan SC,Petrojet,Tuesday,2,1,HomeWin,2015-2016
+2015193,22,3/15/2016,4:15 PM,0:01,Ismaily,Ittihad Alex,Tuesday,0,1,AwayWin,2015-2016
+2015194,22,3/15/2016,7:00 PM,0:00,El Mokawloon,Talaea El Gaish,Tuesday,0,0,Draw,2015-2016
+2015195,22,4/14/2016,7:00 PM,0:00,El Dakhlia,Zamalek,Thursday,0,0,Draw,2015-2016
+2015196,22,4/15/2016,4:00 PM,1:00,Wadi Degla,El Makasa,Friday,1,0,HomeWin,2015-2016
+2015197,22,4/15/2016,7:00 PM,2:00,Ahly SC,Enppi SC,Friday,2,0,HomeWin,2015-2016
+2015198,23,4/2/2016,3:45 PM,0:01,El Mahalla,El Mokawloon,Saturday,0,1,AwayWin,2015-2016
+2015199,23,4/2/2016,2:45 PM,2:00,Talaea El Gaish,El Dakhlia,Saturday,2,0,HomeWin,2015-2016
+2015200,23,4/2/2016,5:45 PM,3:01,Petrojet,Entag El Harby,Saturday,3,1,HomeWin,2015-2016
+2015201,23,4/2/2016,8:00 PM,0:02,Enppi SC,Wadi Degla,Saturday,0,2,AwayWin,2015-2016
+2015202,23,4/3/2016,3:45 PM,3:01,El Makasa,Aswan SC,Sunday,3,1,HomeWin,2015-2016
+2015203,23,4/3/2016,5:45 PM,0:01,El Masry,Smouha,Sunday,0,1,AwayWin,2015-2016
+2015204,23,4/3/2016,8:00 PM,3:05,El Shorta,Ahly SC,Sunday,3,5,AwayWin,2015-2016
+2015205,23,4/4/2016,5:00 PM,2:00,Ittihad Alex,Harras Hodoud,Monday,2,0,HomeWin,2015-2016
+2015206,23,4/4/2016,8:00 PM,0:01,Zamalek,Ismaily,Monday,0,1,AwayWin,2015-2016
+2015207,24,4/6/2016,6:00 PM,1:00,El Dakhlia,El Mahalla,Wednesday,1,0,HomeWin,2015-2016
+2015208,24,4/7/2016,5:00 PM,2:02,El Mokawloon,Petrojet,Thursday,2,2,Draw,2015-2016
+2015209,24,4/7/2016,7:30 PM,2:01,Wadi Degla,El Shorta,Thursday,2,1,HomeWin,2015-2016
+2015210,24,4/9/2016,5:00 PM,2:00,Ismaily,Talaea El Gaish,Saturday,2,0,HomeWin,2015-2016
+2015211,24,4/9/2016,7:30 PM,0:01,Harras Hodoud,Smouha,Saturday,0,1,AwayWin,2015-2016
+2015212,24,5/16/2016,7:00 PM,0:01,Ittihad Alex,Zamalek,Monday,0,1,AwayWin,2015-2016
+2015213,24,5/20/2016,8:00 PM,1:01,Aswan SC,Enppi SC,Friday,1,1,Draw,2015-2016
+2015214,24,6/1/2016,7:00 PM,2:01,Entag El Harby,El Makasa,Wednesday,2,1,HomeWin,2015-2016
+2015215,24,6/13/2016,10:00 PM,2:03,Ahly SC,El Masry,Monday,2,3,AwayWin,2015-2016
+2015216,25,4/21/2016,6:30 PM,2:02,El Mahalla,Ismaily,Thursday,2,2,Draw,2015-2016
+2015217,25,4/22/2016,5:00 PM,0:00,Petrojet,El Dakhlia,Friday,0,0,Draw,2015-2016
+2015218,25,4/22/2016,7:30 PM,2:02,El Shorta,Aswan SC,Friday,2,2,Draw,2015-2016
+2015219,25,4/23/2016,5:30 PM,0:00,El Masry,Wadi Degla,Saturday,0,0,Draw,2015-2016
+2015220,25,4/23/2016,8:00 PM,0:01,Talaea El Gaish,Ittihad Alex,Saturday,0,1,AwayWin,2015-2016
+2015221,25,4/24/2016,5:00 PM,0:01,El Makasa,El Mokawloon,Sunday,0,1,AwayWin,2015-2016
+2015222,25,4/24/2016,7:30 PM,0:00,Enppi SC,Entag El Harby,Sunday,0,0,Draw,2015-2016
+2015223,25,4/26/2016,6:00 PM,1:03,Smouha,Ahly SC,Tuesday,1,3,AwayWin,2015-2016
+2015224,25,4/26/2016,8:30 PM,1:00,Zamalek,Harras Hodoud,Tuesday,1,0,HomeWin,2015-2016
+2015225,26,5/1/2016,3:45 PM,1:03,El Dakhlia,El Makasa,Sunday,1,3,AwayWin,2015-2016
+2015226,26,5/1/2016,5:45 PM,1:01,Aswan SC,El Masry,Sunday,1,1,Draw,2015-2016
+2015227,26,5/1/2016,8:00 PM,0:03,El Mokawloon,Enppi SC,Sunday,0,3,AwayWin,2015-2016
+2015228,26,5/3/2016,5:45 PM,1:01,Ittihad Alex,El Mahalla,Tuesday,1,1,Draw,2015-2016
+2015229,26,5/3/2016,8:30 PM,2:01,Zamalek,Talaea El Gaish,Tuesday,2,1,HomeWin,2015-2016
+2015230,26,5/4/2016,3:45 PM,1:01,Wadi Degla,Smouha,Wednesday,1,1,Draw,2015-2016
+2015231,26,5/4/2016,5:45 PM,0:00,Entag El Harby,El Shorta,Wednesday,0,0,Draw,2015-2016
+2015232,26,5/4/2016,4:45 PM,1:00,Ismaily,Petrojet,Wednesday,1,0,HomeWin,2015-2016
+2015233,26,5/4/2016,8:30 PM,0:04,Harras Hodoud,Ahly SC,Wednesday,0,4,AwayWin,2015-2016
+2015234,27,5/5/2016,7:00 PM,0:01,Enppi SC,El Dakhlia,Thursday,0,1,AwayWin,2015-2016
+2015235,27,5/7/2016,5:45 PM,0:02,El Mahalla,Zamalek,Saturday,0,2,AwayWin,2015-2016
+2015236,27,5/7/2016,8:30 PM,0:01,Ahly SC,Wadi Degla,Saturday,0,1,AwayWin,2015-2016
+2015237,27,5/8/2016,3:45 PM,1:00,Talaea El Gaish,Harras Hodoud,Sunday,1,0,HomeWin,2015-2016
+2015238,27,5/8/2016,5:45 PM,3:01,Petrojet,Ittihad Alex,Sunday,3,1,HomeWin,2015-2016
+2015239,27,5/8/2016,4:45 PM,0:00,Smouha,Aswan SC,Sunday,0,0,Draw,2015-2016
+2015240,27,5/8/2016,8:00 PM,0:00,El Masry,Entag El Harby,Sunday,0,0,Draw,2015-2016
+2015241,27,5/8/2016,7:00 PM,2:02,El Shorta,El Mokawloon,Sunday,2,2,Draw,2015-2016
+2015242,27,5/13/2016,6:00 PM,3:02,El Makasa,Ismaily,Friday,3,2,HomeWin,2015-2016
+2015243,28,5/9/2016,7:00 PM,2:02,Ismaily,Enppi SC,Monday,2,2,Draw,2015-2016
+2015244,28,5/12/2016,3:45 PM,2:01,El Mokawloon,El Masry,Thursday,2,1,HomeWin,2015-2016
+2015245,28,5/12/2016,2:45 PM,0:02,Harras Hodoud,Wadi Degla,Thursday,0,2,AwayWin,2015-2016
+2015246,28,5/12/2016,6:00 PM,2:00,Zamalek,Petrojet,Thursday,2,0,HomeWin,2015-2016
+2015247,28,5/12/2016,8:30 PM,0:04,Aswan SC,Ahly SC,Thursday,0,4,AwayWin,2015-2016
+2015248,28,5/14/2016,3:45 PM,1:00,El Dakhlia,El Shorta,Saturday,1,0,HomeWin,2015-2016
+2015249,28,5/14/2016,5:45 PM,2:01,Talaea El Gaish,El Mahalla,Saturday,2,1,HomeWin,2015-2016
+2015250,28,5/14/2016,8:00 PM,1:01,Entag El Harby,Smouha,Saturday,1,1,Draw,2015-2016
+2015251,28,6/5/2016,6:00 PM,1:00,Ittihad Alex,El Makasa,Sunday,1,0,HomeWin,2015-2016
+2015252,29,5/16/2016,4:30 PM,1:00,Wadi Degla,Aswan SC,Monday,1,0,HomeWin,2015-2016
+2015253,29,5/17/2016,7:00 PM,2:00,Ahly SC,Entag El Harby,Tuesday,2,0,HomeWin,2015-2016
+2015254,29,5/18/2016,5:45 PM,3:02,El Masry,El Dakhlia,Wednesday,3,2,HomeWin,2015-2016
+2015255,29,5/18/2016,8:00 PM,2:00,El Shorta,Ismaily,Wednesday,2,0,HomeWin,2015-2016
+2015256,29,5/19/2016,3:45 PM,0:01,El Mahalla,Harras Hodoud,Thursday,0,1,AwayWin,2015-2016
+2015257,29,5/19/2016,5:45 PM,0:00,Petrojet,Talaea El Gaish,Thursday,0,0,Draw,2015-2016
+2015258,29,5/19/2016,8:30 PM,0:02,Smouha,El Mokawloon,Thursday,0,2,AwayWin,2015-2016
+2015259,29,5/22/2016,8:30 PM,1:03,El Makasa,Zamalek,Sunday,1,3,AwayWin,2015-2016
+2015260,29,5/31/2016,8:00 PM,3:00,Enppi SC,Ittihad Alex,Tuesday,3,0,HomeWin,2015-2016
+2015261,30,5/22/2016,3:45 PM,1:00,Ittihad Alex,El Shorta,Sunday,1,0,HomeWin,2015-2016
+2015262,30,5/22/2016,5:45 PM,1:01,Ismaily,El Masry,Sunday,1,1,Draw,2015-2016
+2015263,30,5/23/2016,7:00 PM,0:01,El Dakhlia,Smouha,Monday,0,1,AwayWin,2015-2016
+2015264,30,5/24/2016,5:45 PM,1:01,El Mahalla,Petrojet,Tuesday,1,1,Draw,2015-2016
+2015265,30,5/24/2016,8:00 PM,1:01,Entag El Harby,Wadi Degla,Tuesday,1,1,Draw,2015-2016
+2015266,30,5/25/2016,3:45 PM,1:00,Harras Hodoud,Aswan SC,Wednesday,1,0,HomeWin,2015-2016
+2015267,30,5/25/2016,7:00 PM,0:03,El Mokawloon,Ahly SC,Wednesday,0,3,AwayWin,2015-2016
+2015268,30,5/26/2016,8:30 PM,1:00,Zamalek,Enppi SC,Thursday,1,0,HomeWin,2015-2016
+2015269,30,5/27/2016,7:00 PM,0:00,Talaea El Gaish,El Makasa,Friday,0,0,Draw,2015-2016
+2015270,31,6/8/2016,10:00 PM,3:03,Smouha,Ismaily,Wednesday,3,3,Draw,2015-2016
+2015271,31,6/8/2016,9:00 PM,1:01,Wadi Degla,El Mokawloon,Wednesday,1,1,Draw,2015-2016
+2015272,31,6/8/2016,9:00 PM,1:02,Petrojet,Harras Hodoud,Wednesday,1,2,AwayWin,2015-2016
+2015273,31,6/9/2016,10:00 PM,2:00,Ahly SC,El Dakhlia,Thursday,2,0,HomeWin,2015-2016
+2015274,31,6/9/2016,9:00 PM,1:00,El Makasa,El Mahalla,Thursday,1,0,HomeWin,2015-2016
+2015275,31,6/9/2016,9:00 PM,2:01,Enppi SC,Talaea El Gaish,Thursday,2,1,HomeWin,2015-2016
+2015276,31,6/9/2016,9:00 PM,2:00,El Masry,Ittihad Alex,Thursday,2,0,HomeWin,2015-2016
+2015277,31,6/9/2016,9:00 PM,0:02,Aswan SC,Entag El Harby,Thursday,0,2,AwayWin,2015-2016
+2015278,31,6/11/2016,10:00 PM,2:03,El Shorta,Zamalek,Saturday,2,3,AwayWin,2015-2016
+2015279,32,6/14/2016,10:00 PM,0:00,El Mahalla,Enppi SC,Tuesday,0,0,Draw,2015-2016
+2015280,32,6/14/2016,9:00 PM,0:03,Harras Hodoud,Entag El Harby,Tuesday,0,3,AwayWin,2015-2016
+2015281,32,6/14/2016,9:00 PM,2:00,El Mokawloon,Aswan SC,Tuesday,2,0,HomeWin,2015-2016
+2015282,32,6/15/2016,10:00 PM,3:02,Petrojet,El Makasa,Wednesday,3,2,HomeWin,2015-2016
+2015283,32,6/15/2016,9:00 PM,2:00,El Dakhlia,Wadi Degla,Wednesday,2,0,HomeWin,2015-2016
+2015284,32,6/15/2016,9:00 PM,0:01,Ittihad Alex,Smouha,Wednesday,0,1,AwayWin,2015-2016
+2015285,32,6/15/2016,9:00 PM,2:00,Talaea El Gaish,El Shorta,Wednesday,2,0,HomeWin,2015-2016
+2015286,32,6/24/2016,10:00 PM,1:02,Ismaily,Ahly SC,Friday,1,2,AwayWin,2015-2016
+2015287,32,6/24/2016,9:00 PM,2:02,Zamalek,El Masry,Friday,2,2,Draw,2015-2016
+2015288,33,6/26/2016,10:00 PM,3:00,El Shorta,El Mahalla,Sunday,3,0,HomeWin,2015-2016
+2015289,33,6/26/2016,9:00 PM,1:00,Aswan SC,El Dakhlia,Sunday,1,0,HomeWin,2015-2016
+2015290,33,6/26/2016,9:00 PM,2:01,Entag El Harby,El Mokawloon,Sunday,2,1,HomeWin,2015-2016
+2015291,33,6/27/2016,10:00 PM,1:00,Enppi SC,Petrojet,Monday,1,0,HomeWin,2015-2016
+2015292,33,6/27/2016,9:00 PM,1:01,Harras Hodoud,El Makasa,Monday,1,1,Draw,2015-2016
+2015293,33,6/30/2016,10:00 PM,0:02,Wadi Degla,Ismaily,Thursday,0,2,AwayWin,2015-2016
+2015294,33,6/30/2016,9:00 PM,0:00,El Masry,Talaea El Gaish,Thursday,0,0,Draw,2015-2016
+2015295,33,7/3/2016,10:00 PM,1:01,Ahly SC,Ittihad Alex,Sunday,1,1,Draw,2015-2016
+2015296,33,7/4/2016,10:00 PM,1:01,Smouha,Zamalek,Monday,1,1,Draw,2015-2016
+2015297,34,7/2/2016,10:00 PM,0:02,El Makasa,Enppi SC,Saturday,0,2,AwayWin,2015-2016
+2015298,34,7/4/2016,10:00 PM,3:00,Petrojet,El Shorta,Monday,3,0,HomeWin,2015-2016
+2015299,34,7/4/2016,9:00 PM,2:00,Ismaily,Aswan SC,Monday,2,0,HomeWin,2015-2016
+2015300,34,7/4/2016,9:00 PM,2:01,El Dakhlia,Entag El Harby,Monday,2,1,HomeWin,2015-2016
+2015301,34,7/4/2016,9:00 PM,1:00,El Mokawloon,Harras Hodoud,Monday,1,0,HomeWin,2015-2016
+2015302,34,7/8/2016,6:00 PM,2:02,El Mahalla,El Masry,Friday,2,2,Draw,2015-2016
+2015303,34,7/8/2016,5:00 PM,0:01,Talaea El Gaish,Smouha,Friday,0,1,AwayWin,2015-2016
+2015304,34,7/8/2016,5:00 PM,2:03,Ittihad Alex,Wadi Degla,Friday,2,3,AwayWin,2015-2016
+2015305,34,7/9/2016,9:30 PM,0:00,Zamalek,Ahly SC,Saturday,0,0,Draw,2015-2016

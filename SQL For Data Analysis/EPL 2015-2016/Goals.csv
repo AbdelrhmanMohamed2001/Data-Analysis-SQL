@@ -1,0 +1,677 @@
+match_id,GoalScorer,OG,Team,Assist,AssistType,Penalty
+2015000,Amer Sabry,0,Home,Amr Marei,Pass,0
+2015000,Onosh,0,Home,Cyrille Bayala,Penalty,1
+2015001,Ahmed Ramadan,0,Away,Mohamed Farouk,Pass,0
+2015001,Mahmoud Kaoud,0,Home,Mohamed Nasef,Cross,0
+2015001,Salah Ashour,0,Home,Osama Ibrahim,Free kick,0
+2015001,Ahmed Sabry,0,Away,Mohamed Farouk,Header,0
+2015002,Platini,0,Home,Patrick Ngoma,Cross,0
+2015003,Marwan Mohsen,0,Home,Marwan Mohsen,Penalty,1
+2015003,Taha Adel,0,Home,None,Unknown,0
+2015004,Kahraba,0,Home,Ayman Hefny,Pass,0
+2015004,Mohamed Salem,0,Home,Ahmed Dowidar,Cross,0
+2015005,Hany El Egeizy,0,Away,None,Unknown,0
+2015006,Abdoulaye Cissé,0,Away,Salah Rico,Free kick,0
+2015006,Ahmed Samy,0,Home,Amr Barakat,Free kick,0
+2015007,Ahmed Gaafar,0,Home,Mohamed Tarek,Cross,0
+2015007,Ahmed Raouf,0,Away,Mohamed Mosaad,Pass,0
+2015007,Ahmed Gomaa,0,Away,Osama Azab,Cross,0
+2015007,Elsayed Abdelaal,0,Away,Mohamed Mosaad,Penalty,1
+2015008,Abdallah El Said,0,Away,None,Unknown,0
+2015009,Islam Abdelnaim,0,Away,None,Unknown,0
+2015010,Youssef Obama,0,Away,Platini,Pass,0
+2015012,Mohamed Ragab,0,Away,Ahmed Gaafar,Cross,0
+2015012,Kareem Tarek,0,Away,None,Unknown,0
+2015012,Ouka,1,Away,Shaibu Yakubu,Unknown,0
+2015014,Nana Poku,0,Away,Hesham Mohamed,Pass,0
+2015014,Ahmed Raouf,0,Home,Said Mourad,Cross,0
+2015015,Abdallah El Said,0,Home,None,Penalty,1
+2015015,Hossam Ghaly,0,Home,None,Unknown,0
+2015017,Stanley Ohawuchi,0,Home,None,Unknown,0
+2015017,Dodo Elgabas,0,Home,None,Penalty,1
+2015017,Ahmed Eid,0,Away,None,Unknown,0
+2015017,Stanley Ohawuchi,0,Home,Islam Saleh,Pass,0
+2015017,Ahmed Eid,0,Away,Mohamed Rizk,Penalty,1
+2015017,Ahmed El Esh,1,Away,Alaa Ali,Unknown,0
+2015018,Stanley Ohawuchi,0,Away,Karim Nedved,Pass,0
+2015018,Stanley Ohawuchi,0,Away,None,Unknown,0
+2015019,Salah Ashour,0,Home,Mohamed Nasef,Free kick,0
+2015019,Mahmoud Kaoud,0,Home,Joël Lamah,Pass,0
+2015019,Ahmed Gomaa,0,Away,Said Mourad,Cross,0
+2015020,Nana Poku,0,Home,None,Unknown,0
+2015020,Nana Poku,0,Home,Elsayed Hamdi,Pass,0
+2015021,Islam Fouad,0,Away,None,Unknown,0
+2015021,Ramzy Khaled,0,Home,Patrick Ngoma,Cross,0
+2015022,Kahraba,0,Home,Omar Gaber,Cross,0
+2015022,Kahraba,0,Home,None,Unknown,0
+2015022,Mahmoud Fathallah,0,Away,Ahmed Magdy,Penalty,1
+2015023,Alaa Ali,0,Home,Ahmed Shedid Kenawi,Cross,0
+2015023,Mohamed Fawzi,0,Away,None,Unknown,0
+2015024,Mohamed Farouk,0,Away,Mohamed Tarek,Cross,0
+2015024,Salah Rico,0,Home,None,Penalty,1
+2015025,Emad Meteb,0,Away,Sabri Rahil,Cross,0
+2015026,Cyrille Bayala,0,Away,Onosh,Cross,0
+2015027,Hamada El Ghanam,0,Home,None,Unknown,0
+2015027,Ahmed Hassan Mekky,0,Away,Mostafa Fathi,Pass,0
+2015027,Ahmed Dowidar,0,Away,None,Penalty,1
+2015028,Hany El Egeizy,0,Home,Ayman Ashraf,Cross,0
+2015028,Salah Soliman,0,Away,None,Unknown,0
+2015029,Ahmed Samy,0,Away,None,Unknown,0
+2015030,Cyrille Bayala,0,Home,None,Unknown,0
+2015030,Abdelaziz Mousa,0,Home,Hossam Hassan,Penalty,1
+2015031,Ahmed Yasser,0,Home,Ahmed Kaboria,Cross,0
+2015032,Marwan Mohsen,0,Away,Hosny Abd Rabo,Penalty,1
+2015032,Saad Hosny,0,Away,Shikabala,Cross,0
+2015032,Emad Hamdi,0,Away,Marwan Mohsen,Header,0
+2015032,Shikabala,0,Away,Torric Jebrin,Pass,0
+2015033,Karim Nedved,0,Home,None,Unknown,0
+2015033,Stanley Ohawuchi,0,Home,Mostafa Talaat,Cross,0
+2015033,Dodo Elgabas,0,Home,None,Unknown,0
+2015035,Alaa Ali,0,Away,Arafa El Sayed,Pass,0
+2015035,Salah Amin,0,Home,None,Unknown,0
+2015035,Salah Amin,0,Home,Ahmed Magdy,Cross,0
+2015036,Stanley Ohawuchi,0,Away,Mostafa Talaat,Free kick,0
+2015036,Elsayed Hamdi,0,Home,Nana Poku,Cross,0
+2015037,Hosny Abd Rabo,0,Away,Shikabala,Cross,0
+2015037,Marwan Mohsen,0,Away,Shawky El Said,Cross,0
+2015037,Emmanuel Banahene,0,Away,Marwan Mohsen,Pass,0
+2015037,Shikabala,0,Away,Marwan Mohsen,Pass,0
+2015037,Afroto,0,Away,Hosny Abd Rabo,Pass,0
+2015038,Mohamed Ashraf Roqa,0,Home,None,Unknown,0
+2015038,Ramy Adel,0,Away,Hamada El Ghanam,Penalty,1
+2015038,Hassan Youssef,0,Home,None,Unknown,0
+2015039,Kareem Tarek,0,Home,None,Unknown,0
+2015039,Shokry Naguib,0,Away,None,Unknown,0
+2015040,Mahmoud Rizk,0,Away,Ali Fathi,Free kick,0
+2015041,Islam Roshdi,0,Away,None,Unknown,0
+2015041,Mohamed Farouk,0,Away,Hamada Yehia,Cross,0
+2015041,Mohamed Magdy,0,Home,Elsayed Abdelaal,Free kick,0
+2015041,Ahmed Raouf,0,Home,Ahmed Kaboria,Pass,0
+2015041,Tarek El Agamy,0,Home,Ahmed El Agouz,Pass,0
+2015042,Hossam Paulo,0,Away,Ahmed Temsah,Penalty,1
+2015042,Hossam Paulo,0,Away,Ahmed Temsah,Corner,0
+2015043,Ayman Hefny,0,Home,Basem Morsy,Pass,0
+2015043,Mohamed Salem,0,Home,None,Unknown,0
+2015044,Amr Gamal,0,Away,Sabri Rahil,Cross,0
+2015044,Momen Zakaria,0,Away,Sabri Rahil,Cross,0
+2015046,Youssef Obama,0,Away,Platini,Free kick,0
+2015048,Ehab El Masry,0,Home,None,Unknown,0
+2015048,Nana Poku,0,Away,None,Unknown,0
+2015048,Hany Said,0,Away,Hamada El Sayed,Handball ,1
+2015048,Ehab El Masry,0,Home,None,Penalty,1
+2015048,Bousha,0,Away,Elsayed Hamdi,Cross,0
+2015049,Ahmed Raouf,0,Away,Ahmed Kaboria,Cross,0
+2015049,Khaled Kamar,0,Home,Hossam Paulo,Penalty,1
+2015051,Malick Evouna,0,Home,Walid Soliman,Cross,0
+2015051,Hossam Galal,0,Away,Khaled El Ghandour,Corner,0
+2015051,Rami Rabia,0,Home,Saleh Gomaa,Corner,0
+2015051,Mahmoud Ibrahim,0,Away,Salah Rico,Unknown,0
+2015051,Saleh Gomaa,0,Home,None,Unknown,0
+2015051,Ramadan Sobhi,0,Home,Saleh Gomaa,Pass,0
+2015051,Malick Evouna,0,Home,Saleh Gomaa,Cross,0
+2015051,Rami Rabia,0,Home,Saleh Gomaa,Cross,0
+2015051,Salah Rico,0,Away,Mohamed Bassiouny,Penalty,1
+2015051,Emad Meteb,0,Home,Saleh Gomaa,Unknown,0
+2015052,Islam Gamal,0,Home,Ahmed Samir Farag,Free kick,0
+2015053,Mahmoud Kaoud,0,Away,Mahmoud Toba,Pass,0
+2015053,Mahmoud Kaoud,0,Away,Ahmed Abdelzaher,Pass,0
+2015053,Elsayed Salem,0,Home,None,Unknown,0
+2015053,Ahmed Abdelzaher,0,Away,Salah Ashour,Unknown,0
+2015053,Ragab Nabil,0,Home,Florent Malouda,Corner,0
+2015054,Amr Marei,0,Away,Mohamed Gamal Treka,Pass,0
+2015054,Osama Ragab,0,Home,Gehad Genadi,Handball ,1
+2015055,Mohamed Samir,0,Away,None,Penalty,1
+2015055,Taher Mohamed,0,Away,None,Unknown,0
+2015056,Mahmoud Fathallah,0,Away,Gedo,Penalty,1
+2015056,Mahmoud Wahid,0,Home,None,Unknown,0
+2015056,Amr Barakat,0,Home,Mido Gaber,Pass,0
+2015057,Wael Faraag,0,Home,Mario Martínez,Cross,0
+2015057,Mohamed Rizk,0,Away,Mohamed El Fayoumi,Pass,0
+2015057,Salah Ashour,0,Home,Ahmed Sherwyda,Pass,0
+2015057,Ramy Sabry,0,Home,Ahmed Sherwyda,Penalty,1
+2015057,Ehab El Masry,0,Away,Mohamed Fawzi,Header,0
+2015058,Ali Elfil,0,Away,Islam Sayed,Cross,0
+2015058,Hany El Egeizy,0,Home,Hossam Paulo,Pass,0
+2015058,Ouka,1,Away,Mohamed Tarek,Corner,0
+2015058,Hossam Paulo,0,Home,Omar Saad,Cross,0
+2015060,Marwan Mohsen,0,Away,Saad Hosny,Cross,0
+2015060,Mohamed Ashraf Roqa,0,Home,None,Unknown,0
+2015060,Ahmed Samir,0,Away,Marwan Mohsen,Header,0
+2015061,Emmanuel Mayuka,0,Home,Ayman Hefny,Pass,0
+2015061,Ashour El Adham,0,Away,None,Unknown,0
+2015061,Kahraba,0,Home,Ayman Hefny,Pass,0
+2015062,Ahmed Yasser,0,Home,Ahmed Kaboria,Cross,0
+2015062,Momen Zakaria,0,Away,None,Unknown,0
+2015062,Mohamed Magdy,0,Home,Ahmed Yasser,Penalty,1
+2015062,Malick Evouna,0,Away,Ramadan Sobhi,Cross,0
+2015063,Amr Barakat,0,Away,None,Unknown,0
+2015063,Sherif Ashraf,0,Home,None,Unknown,0
+2015063,Bousha,0,Away,Mahmoud Dunga,Pass,0
+2015063,Mido Gaber,0,Away,Mahmoud Wahid,Cross,0
+2015063,Nana Poku,0,Away,Amr Barakat,Pass,0
+2015064,Youssef Obama,0,Home,Mohamed Abdelmaguid,Pass,0
+2015066,Mohamed El Fayoumi,0,Home,Mohamed Rizk,Penalty,1
+2015066,Omar Kamal,1,Home,None,Unknown,0
+2015066,Salah Rico,0,Away,Yaya Traoré,Penalty,1
+2015067,Emmanuel Banahene,0,Home,Shikabala,Cross,0
+2015067,Karim El Dawy,0,Home,Marwan Mohsen,Header,0
+2015067,Emmanuel Banahene,0,Home,Torric Jebrin,Pass,0
+2015067,Ramadan Rabie,0,Away,Mohamed Yehia,Pass,0
+2015068,Minusu Buba,0,Home,Asem Said,Cross,0
+2015069,Omar Gaber,0,Away,Kahraba,Pass,0
+2015069,Mostafa Fathi,0,Away,Maarouf Yussuf,Pass,0
+2015070,Ahmed Kaboria,0,Away,Ahmed Ayman Mansour,Cross,0
+2015070,Ahmed Gomaa,0,Away,Ahmed Kaboria,Cross,0
+2015071,Khaled Kamar,0,Away,Ahmed Temsah,Penalty,1
+2015071,Islam Mohareb,0,Away,Ahmed Temsah,Pass,0
+2015071,Islam Mohareb,0,Away,Hossam Paulo,Pass,0
+2015073,Mahmoud Kaoud,0,Home,Nour El Sayed,Pass,0
+2015073,Taher Mohamed,0,Away,Ahmed Ali,Pass,0
+2015073,Ramy Sabry,0,Home,Joël Lamah,Free kick,0
+2015073,Ahmed Refaat,0,Home,None,Unknown,0
+2015074,Mohamed Shaarawy,0,Away,Hesham Shehata,Cross,0
+2015075,Mohamed Gamal Treka,0,Away,Amr Marei,Penalty,1
+2015076,Ahmed Gaafar,0,Home,Hesham Abokhalil,Cross,0
+2015077,Mohamed Ashraf Roqa,0,Home,Konan Oussou,Penalty,1
+2015077,Islam Kamal,0,Home,Abdelaziz Tawfik,Cross,0
+2015077,Kahraba,0,Away,Hazem Emam,Cross,0
+2015077,Konan Oussou,0,Home,Alaa Ali,Penalty,1
+2015077,Mostafa Fathi,0,Away,Kahraba,Throw-in,0
+2015078,Said Mourad,0,Home,Ahmed Raouf,Penalty,1
+2015078,Fouad Salama,0,Away,None,Unknown,0
+2015078,Ahmed Gomaa,0,Home,Said Mourad,Cross,0
+2015078,Ehab El Masry,0,Away,Mohamed El Fayoumi,Cross,0
+2015078,Mohamed Magdy,0,Home,Elsayed Abdelaal,Free kick,0
+2015079,Hany El Egeizy,0,Home,None,Unknown,0
+2015079,Khaled Kamar,0,Home,Mansou Kouakou,Cross,0
+2015080,Malick Evouna,0,Home,Walid Soliman,Unknown,0
+2015080,Malick Evouna,0,Home,Ramadan Sobhi,Cross,0
+2015080,Saleh Gomaa,0,Home,None,Unknown,0
+2015081,Mahmoud Wahid,0,Away,Bousha,Cross,0
+2015081,Marwan Mohsen,0,Home,Saad Hosny,Throw-in,0
+2015081,Mido Gaber,0,Away,None,Unknown,0
+2015081,Amr Barakat,0,Away,Mido Gaber,Pass,0
+2015081,Mahmoud Wahid,0,Away,Nana Poku,Cross,0
+2015082,Ahmed Gaafar,0,Away,None,Penalty,1
+2015082,Sameh Shousha,0,Away,James Owoboskini,Penalty,1
+2015083,Mostafa Kalosha,1,Home,None,Unknown,0
+2015083,Ahmed Hassan Mekky,0,Home,Omar Gaber,Unknown,0
+2015083,Ahmed Hassan Mekky,0,Home,Ayman Hefny,Unknown,0
+2015083,Kahraba,0,Home,Ahmed Hamoudi,Unknown,0
+2015083,Mohamed Koffi,0,Home,Maarouf Yussuf,Unknown,0
+2015086,Mohamed Gamal Treka,0,Home,None,Unknown,0
+2015086,Salah Ashour,0,Away,Mohamed Nasef,Unknown,0
+2015086,Amr Marei,0,Home,Hossam Hassan,Unknown,0
+2015086,Mahmoud Kaoud,0,Away,Mohamed Nasef,Corner,0
+2015086,Wael Faraag,0,Away,None,Unknown,0
+2015086,Onosh,0,Home,Mahmoud Mansour,Cross,0
+2015086,Ragab Bakar,0,Home,Abdelrahman El Sewisi,Unknown,0
+2015086,Ramy Sabry,0,Away,Mahmoud Kaoud,Unknown,0
+2015088,Ahmed Eid,0,Away,Islam Kamal,Header,0
+2015090,Hani Said,0,Away,Karim Munch,Pass,0
+2015090,Omar Najdi,0,Home,Ahmed Samy,Cross,0
+2015091,Ahmed Gaafar,0,Home,Ahmed Magdy,Pass,0
+2015091,Maarouf Yussuf,0,Away,Hamada Tolba,Pass,0
+2015092,Momen Zakaria,0,Home,Mohamed Hany,Pass,0
+2015092,Shokry Naguib,0,Away,Amir Abed,Pass,0
+2015092,Momen Zakaria,0,Home,Walid Soliman,Cross,0
+2015092,Malick Evouna,0,Home,Momen Zakaria,Pass,0
+2015093,Mahmoud Ibrahim,0,Home,Mohamed Bassiouny,Cross,0
+2015093,Onosh,0,Away,Amr Marei,Pass,0
+2015094,Mohamed Yehia,0,Home,None,Unknown,0
+2015094,Asem Salah,0,Away,None,Unknown,0
+2015095,Mahmoud Ezzat,0,Home,Khaled Kamar,Header,0
+2015095,Mohamed Fadl,0,Away,None,Unknown,0
+2015096,Ahmed Kaboria,0,Home,Mohamed Mosaad,Pass,0
+2015096,Karim Mostafa,0,Away,Mody,Cross,0
+2015096,Ahmed Raouf,0,Home,Mohamed Mosaad,Pass,0
+2015096,Karim Mostafa,0,Away,Ahmed Ali,Pass,0
+2015096,Ahmed Raouf,0,Home,Mohamed Mosaad,Cross,0
+2015098,Mahmoud Kaoud,0,Home,Joël Lamah,Unknown,0
+2015098,Marwan Mohsen,0,Away,Shikabala,Unknown,0
+2015098,Mohamed Fathi,0,Away,None,Unknown,0
+2015099,Amer Sabry,0,Home,Onosh,Cross,0
+2015099,Mohamed Magdy,0,Away,Mohamed Ashraf,Penalty,1
+2015100,Mahmoud Dunga,0,Away,None,Unknown,0
+2015100,Ayman Hefny,0,Home,Ahmed Hassan Mekky,Unknown,0
+2015100,Omar Najdi,0,Away,None,Unknown,0
+2015100,Mostafa Fathi,0,Home,Ayman Hefny,Unknown,0
+2015101,Ahmed Sabry,0,Home,None,Unknown,0
+2015101,Khaled Mayez,0,Home,None,Unknown,0
+2015101,Mohamed Yehia,0,Away,Hatem Samir,Penalty,1
+2015101,Mohamed Yehia,0,Away,Youssef Hassan,Penalty,1
+2015102,Shokry Naguib,0,Home,None,Unknown,0
+2015102,Sameh Abdel-Fadil,0,Away,Dodo Elgabas,Unknown,0
+2015102,Abdallah Farouk,0,Home,Amir Abed,Pass,0
+2015103,Salah Rico,0,Away,None,Unknown,0
+2015103,Mahmoud Ibrahim,0,Away,Khaled El Ghandour,Corner,0
+2015103,Shawky El Said,0,Home,Emmanuel Banahene,Header,0
+2015103,Marwan Mohsen,0,Home,Khaled Sotohi,Handball ,1
+2015104,Emad Meteb,0,Away,Abdallah El Said,Unknown,0
+2015105,Youssef Obama,0,Home,Akram Abd Rabo,Penalty,1
+2015107,Hossam Paulo,0,Away,Mohamed Samir,Handball ,1
+2015107,Ramy Adel,0,Home,None,Unknown,0
+2015108,Ahmed Gaafar,0,Home,James Owoboskini,Cross,0
+2015108,Shaibu Yakubu,0,Home,None,Unknown,0
+2015109,Fouad Salama,0,Home,Eric Traoré,Penalty,1
+2015110,Alaa Ali,0,Away,Bousha,Handball ,1
+2015110,Amr Barakat,0,Home,Omar Najdi,Pass,0
+2015111,Shikabala,0,Away,None,Unknown,0
+2015112,Ahmed Gomaa,0,Home,Mohamed Refai,Cross,0
+2015113,Momen Zakaria,0,Home,None,Unknown,0
+2015113,Abdallah El Said,0,Home,Saleh Gomaa,Penalty,1
+2015113,Abdallah El Said,0,Home,Saleh Gomaa,Pass,0
+2015113,Sherif Ashraf,0,Away,Hamada El Ghanam,Penalty,1
+2015114,Mahmoud Ibrahim,0,Home,Ahmed Gamal,Free kick,0
+2015114,Ahmed El-Sayed,0,Away,Hesham Shehata,Corner,0
+2015115,Hossam Hassan,0,Away,Hossam Hassan,Penalty,1
+2015115,Hossam Paulo,0,Home,None,Penalty,1
+2015116,Stanley Ohawuchi,0,Home,None,Unknown,0
+2015116,Mohamed Sosta,0,Away,None,Unknown,0
+2015116,Leila,0,Away,Mohamed Farouk,Header,0
+2015116,Mohamed Fadl,0,Away,Mohamed Farouk,Pass,0
+2015117,Elsayed Hamdi,0,Away,Alaa Shaaban,Cross,0
+2015118,Osama Mohamed,0,Away,Kareem Tarek,Penalty,1
+2015118,James Owoboskini,0,Away,Ahmed El Shenawy,Pass,0
+2015119,Franck Engongah,1,Away,None,Unknown,0
+2015119,Mohamed Rizk,0,Home,None,Unknown,0
+2015119,Salah Soliman,0,Away,Mohamed Nasef,Cross,0
+2015119,Nour El Sayed,0,Away,Ahmed Sherwyda,Cross,0
+2015120,Hossam Paulo,0,Away,Ahmed Temsah,Pass,0
+2015120,Shawky El Said,0,Home,Ibrahim Hassan,Header,0
+2015120,Mahmoud Ezzat,0,Away,Ayman Ashraf,Header,0
+2015120,Marwan Mohsen,0,Home,Ayman Ashraf,Handball ,1
+2015121,Amr Marei,0,Home,Mohamed Gamal Treka,Cross,0
+2015121,Rashad Farouk,0,Away,None,Unknown,0
+2015122,Gedo,0,Home,None,Unknown,0
+2015122,Mohamed Farouk,0,Home,None,Unknown,0
+2015123,Mohamed Magdy,0,Away,Ahmed Kaboria,Free kick,0
+2015123,Youssef Obama,0,Home,Youssef Obama,Penalty,1
+2015125,Kahraba,0,Home,None,Unknown,0
+2015126,Ahmed Gaafar,0,Away,None,Unknown,0
+2015127,Ahmed Sherwyda,0,Home,Joël Lamah,Unknown,0
+2015127,Wael Faraag,0,Home,Salah Ashour,Cross,0
+2015127,Salah Ashour,0,Home,None,Unknown,0
+2015128,Stanley Ohawuchi,0,Home,None,Unknown,0
+2015129,Hossam Paulo,0,Home,None,Unknown,0
+2015129,Ahmed Shokry,0,Home,Hossam Hassan,Unknown,0
+2015130,Mahmoud Fathallah,0,Home,None,Unknown,0
+2015130,Mahmoud Fathallah,0,Home,Salah Amin,Penalty,1
+2015130,Mahmoud Fathallah,0,Home,Mohamed Hassan,Handball ,1
+2015131,Mohamed Rizk,0,Home,Ehab El Masry,Cross,0
+2015131,Ehab El Masry,0,Home,Amir Abed,Cross,0
+2015131,Fathi Mabrouk,0,Away,None,Unknown,0
+2015132,Khaled Sotohi,0,Home,Khaled El Ghandour,Penalty,1
+2015132,Alaa Ali,0,Away,Konan Oussou,Penalty,1
+2015132,Alaa Ali,0,Away,Konan Oussou,Pass,0
+2015132,Franck Engongah,0,Away,Mohamed Ashraf Roqa,Pass,0
+2015132,Ahmed Ouka,0,Away,Islam Kamal,Header,0
+2015133,Abdallah El Said,0,Home,None,Unknown,0
+2015134,Mostafa Fathi,0,Away,Basem Morsy,Header,0
+2015136,John Antwi,0,Away,Ahmed Fathi,Cross,0
+2015138,Mohamed Helal,0,Away,None,Unknown,0
+2015139,Mido Gaber,0,Home,None,Unknown,0
+2015140,Amr El Monoufy,0,Away,Hossam Paulo,Pass,0
+2015140,Hamada Tolba,0,Home,Mostafa Fathi,Cross,0
+2015141,Eric Traoré,0,Away,Fouad Salama,Free kick,0
+2015141,Amr Marei,0,Home,Cyrille Bayala,Header,0
+2015142,Konan Oussou,0,Home,Mohamed Rizk,Free kick,0
+2015142,Konan Oussou,0,Home,Alaa Ali,Cross,0
+2015142,Ahmed Kaboria,0,Away,None,Unknown,0
+2015142,Osama Azab,0,Away,Mohamed Refai,Pass,0
+2015142,Mohamed Magdy,0,Away,Ahmed Kaboria,Corner,0
+2015142,Konan Oussou,0,Home,Arafa El Sayed,Header,0
+2015144,Mohamed Fadl,0,Away,Omar Gamal,Pass,0
+2015145,Ahmed Raouf,0,Home,Elsayed Abdelaal,Cross,0
+2015146,Ahmed Elalfi,0,Away,Hermann Kouao,Header,0
+2015146,Hesham Shehata,1,Home,Stanley Ohawuchi,Header,0
+2015146,Stanley Ohawuchi,0,Home,Hossam Arafat,Unknown,0
+2015146,Junior Mapuku,0,Home,Hesham Shehata,Handball ,1
+2015147,Salah Amin,0,Home,None,Penalty,1
+2015147,Ragab Bakar,0,Away,Abdelrahman El Sewisi,Unknown,0
+2015147,Mohamed Farouk,0,Home,Sayed Farid,Free kick,0
+2015147,Abdelrahman El Sewisi,0,Away,Islam Abdelnaim,Unknown,0
+2015148,Ahmed Gaafar,0,Away,Osama Mohamed,Throw-in,0
+2015149,Shawky El Said,0,Away,Marwan Mohsen,Pass,0
+2015149,Ibrahim El Kadi,0,Home,None,Unknown,0
+2015150,Mohamed Hashem,0,Away,None,Unknown,0
+2015150,Hossam Paulo,0,Home,Omar Saad,Cross,0
+2015150,Hany El Egeizy,0,Home,None,Unknown,0
+2015150,Mohamed Rizk,0,Away,None,Unknown,0
+2015151,Nana Poku,0,Away,Mido Gaber,Free kick,0
+2015151,Ahmed Sherwyda,0,Home,Mohamed Nasef,Cross,0
+2015152,Malick Evouna,0,Home,Hossam Ashour,Pass,0
+2015152,Amr Gamal,0,Home,Ramadan Sobhi,Pass,0
+2015153,Ibrahim El Kadi,0,Home,Ahmed Abdelaziz,Free kick,0
+2015154,Mahmoud Kaoud,0,Away,Mario Martínez,Cross,0
+2015155,Gedo,0,Home,Ali Fathi,Cross,0
+2015155,Gedo,0,Home,Ernest Papa Arko,Cross,0
+2015155,Gedo,0,Home,Salah Amin,Penalty,1
+2015156,Mohamed Fadl,0,Home,Fathi Mabrouk,Cross,0
+2015156,Cyrille Bayala,0,Away,None,Unknown,0
+2015156,Mohamed Fadl,0,Home,Omar Gamal,Cross,0
+2015156,Onosh,0,Home,Omar Gamal,Pass,0
+2015157,Mohamed Hamdi,0,Home,Amr El Monoufy,Pass,0
+2015157,Hossam Paulo,0,Home,Amr El Monoufy,Penalty,1
+2015157,Youssef Hassan,0,Away,Mohamed Yehia,Pass,0
+2015157,Mohamed Yehia,0,Away,Khaled Abdelrazek,Pass,0
+2015157,Mahmoud Ezzat,0,Home,Ahmed Shokry,Corner,0
+2015157,Mohamed Hamdi,0,Home,None,Unknown,0
+2015160,Mahmoud Alaa,0,Home,Florent Malouda,Corner,0
+2015160,Basem Morsy,0,Away,None,Unknown,0
+2015162,Mohamed Farouk,0,Away,None,Unknown,0
+2015162,Ernest Papa Arko,0,Away,Mohamed Farouk,Pass,0
+2015162,Karim Munch,0,Home,Ahmed Elalfi,Cross,0
+2015163,Marwan Mohsen,0,Home,Hosny Abd Rabo,Penalty,1
+2015164,Amr Marei,0,Home,Amr Marei,Penalty,1
+2015164,Abdelaziz Mousa,0,Home,Asem Said,Pass,0
+2015165,Mohamed Ragab,0,Home,Shemeles Bekele,Unknown,0
+2015165,Ibrahim Salah,0,Away,Ahmed Shokry,Free kick,0
+2015165,Shemeles Bekele,0,Home,Ahmed Gaafar,Pass,0
+2015165,Ahmed Gaafar,0,Home,Mohamed Ragab,Pass,0
+2015166,Salah Ashour,0,Home,Mahmoud Kaoud,Pass,0
+2015166,Hossam Abdel-Aal,0,Away,Mohamed Bassiouny,Cross,0
+2015166,Salah Rico,0,Away,Akram Tawfik,Handball ,1
+2015166,Mohamed Bassiouny,0,Away,None,Unknown,0
+2015167,Mostafa Galal,0,Away,Florent Malouda,Free kick,0
+2015167,Stanley Ohawuchi,0,Away,Junior Mapuku,Cross,0
+2015168,Said Mourad,0,Away,None,Unknown,0
+2015168,Nana Poku,0,Home,Mido Gaber,Unknown,0
+2015168,Amr Barakat,0,Home,Omar Najdi,Pass,0
+2015168,Ahmed Gomaa,0,Away,Ahmed Raouf,Throw-in,0
+2015169,Mohamed Yehia,0,Home,Mohamed Khalifa,Cross,0
+2015169,Ramadan Sobhi,0,Away,None,Unknown,0
+2015170,Basem Morsy,0,Home,Omar Gaber,Cross,0
+2015172,Ramy Adel,0,Home,Mohamed Bazoka,Handball ,1
+2015172,Abdelrahman Farouk,0,Away,None,Unknown,0
+2015172,Mohamed Fadl,0,Home,Onosh,Penalty,1
+2015172,Onosh,0,Home,Mohamed Fadl,Pass,0
+2015173,Ahmed Eid,0,Away,Abdelaziz Tawfik,Pass,0
+2015174,Dodo Elgabas,0,Home,Stanley Ohawuchi,Cross,0
+2015174,Mohamed Alaa,0,Away,None,Unknown,0
+2015175,Ahmed Raouf,0,Home,Ahmed Yasser,Cross,0
+2015175,Ahmed Kaboria,0,Home,Ahmed Yasser,Pass,0
+2015175,Ahmed Raouf,0,Home,Said Mourad,Pass,0
+2015175,Ahmed Raouf,0,Home,Elsayed Abdelaal,Cross,0
+2015176,Ahmed Temsah,0,Home,Amr El Monoufy,Pass,0
+2015176,Hossam Paulo,0,Home,Mohamed Hamdi,Cross,0
+2015176,Mohamed Hamdi,0,Home,Ahmed Temsah,Corner,0
+2015176,Nana Poku,0,Away,None,Unknown,0
+2015176,Hosny Fathi,0,Away,Hany Said,Pass,0
+2015176,Ouka,1,Home,Mohamed Hamdi,Cross,0
+2015176,Omar Najdi,0,Away,None,Unknown,0
+2015177,Hosny Abd Rabo,0,Away,Marwan Mohsen,Header,0
+2015178,Abdallah El Said,0,Home,Ramadan Sobhi,Penalty,1
+2015178,Abdallah El Said,0,Home,Sabri Rahil,Pass,0
+2015179,Salah Amin,0,Home,None,Unknown,0
+2015179,Emmanuel Mayuka,0,Away,Mohamed Adel Gomaa,Cross,0
+2015179,Salah Amin,0,Home,Mohamed Farouk,Unknown,0
+2015179,Mahmoud Fathallah,0,Home,Salah Amin,Penalty,1
+2015180,Ramadan Sobhi,0,Home,Abdallah El Said,Pass,0
+2015180,Mido Gaber,0,Away,None,Unknown,0
+2015180,Amr Gamal,0,Home,Abdallah El Said,Pass,0
+2015181,Mohamed Koffi,0,Home,Emmanuel Mayuka,Unknown,0
+2015181,Emmanuel Mayuka,0,Home,Ayman Hefny,Unknown,0
+2015182,Amr Marei,0,Away,Abdelaziz Mousa,Pass,0
+2015182,Cyrille Bayala,0,Away,Amr Marei,Cross,0
+2015182,Hermann Kouao,0,Home,Akram Abd Rabo,Cross,0
+2015183,Mahmoud Alaa,0,Away,Florent Malouda,Free kick,0
+2015184,Ahmed Gomaa,0,Away,Said Mourad,Cross,0
+2015185,Hossam Paulo,0,Away,Omar Saad,Cross,0
+2015186,Ahmed Abdelaziz,0,Away,None,Unknown,0
+2015187,Marwan Mohsen,0,Home,Hosny Abd Rabo,Pass,0
+2015189,Hossam Paulo,0,Home,Islam Mohareb,Cross,0
+2015189,Mohamed Bassiouny,0,Away,Ahmed Adel,Cross,0
+2015190,Mostafa Gamal,0,Home,Ahmed Safi,Cross,0
+2015190,Alaa Shaaban,0,Home,None,Unknown,0
+2015190,Wilson Akakpo,1,Home,Mostafa Gamal,Header,0
+2015190,Sayed Gad,1,Away,Ahmed Yasser,Unknown,0
+2015191,Mahmoud Fathallah,0,Home,Mohamed Farouk,Penalty,1
+2015192,Moatasem Salem,0,Away,Shemeles Bekele,Cross,0
+2015192,Ehab El Masry,0,Home,Kofi Owusu,Unknown,0
+2015192,Ibrahim El Shayeb,0,Home,None,Unknown,0
+2015193,Youssef Obama,0,Away,None,Unknown,0
+2015196,Florent Malouda,0,Home,Hossam Arafat,Pass,0
+2015197,Abdallah El Said,0,Home,Ramadan Sobhi,Penalty,1
+2015197,Momen Zakaria,0,Home,None,Unknown,0
+2015198,Ramy Adel,0,Away,Islam Fouad,Penalty,1
+2015199,Mohamed Rizk,0,Home,None,Unknown,0
+2015199,Ahmed Shedid Kenawi,0,Home,Arafa El Sayed,Cross,0
+2015200,Ahmed Gaafar,0,Home,Mohamed Ragab,Pass,0
+2015200,Amr Hassan,0,Home,Ahmed Gaafar,Pass,0
+2015200,Mohamed Ragab,0,Home,Ahmed Gaafar,Pass,0
+2015200,Mahmoud Fathallah,0,Away,Walid Hassan,Penalty,1
+2015201,Ahmed El Esh,0,Away,Mohamed Sherif,Pass,0
+2015201,Florent Malouda,0,Away,Mohamed Sherif,Pass,0
+2015202,Eric Traoré,0,Away,Osama Marei,Pass,0
+2015202,Nana Poku,0,Home,Mido Gaber,Cross,0
+2015202,Amr Barakat,0,Home,Mido Gaber,Pass,0
+2015202,Mido Gaber,0,Home,Hussein El Shahat,Cross,0
+2015203,Hossam Paulo,0,Away,Mansou Kouakou,Pass,0
+2015204,Momen Zakaria,0,Away,Hussein El Sayed,Cross,0
+2015204,Ahmed Fathi,0,Away,Momen Zakaria,Pass,0
+2015204,Mohamed Abdelsalam,1,Away,None,Unknown,0
+2015204,Ahmed Fathi,0,Away,Amr Gamal,Cross,0
+2015204,Salah Rico,0,Home,Mohamed Hany,Handball ,1
+2015204,Abdoulaye Cissé,0,Home,Mohamed Bassiouny,Unknown,0
+2015204,Abdoulaye Cissé,0,Home,Mohamed Bassiouny,Pass,0
+2015204,Amr Gamal,0,Away,Ramadan Sobhi,Pass,0
+2015205,Youssef Obama,0,Home,Ashour El Adham,Pass,0
+2015205,Mohamed Abdelmaguid,0,Home,Mohamed Abdelmaguid,Penalty,1
+2015206,Emmanuel Banahene,0,Away,Ahmed Samir,Cross,0
+2015207,Amr Marei,0,Home,Mohamed Gamal Treka,Pass,0
+2015208,Mohamed Ragab,0,Away,Ahmed El Shenawy,Unknown,0
+2015208,Mohamed Ragab,0,Away,Ahmed Gaafar,Pass,0
+2015208,Mohamed Fadl,0,Home,Onosh,Unknown,0
+2015208,Ahmed Ali,0,Home,Mohamed Fadl,Header,0
+2015209,Mohamed Bassiouny,0,Away,Salah Rico,Pass,0
+2015209,Junior Mapuku,0,Home,Karim Mamdouh,Cross,0
+2015209,Florent Malouda,0,Home,Mohamed Sherif,Unknown,0
+2015210,Marwan Mohsen,0,Home,Bahaa Magdy,Cross,0
+2015210,Ibrahim Hassan,0,Home,Ahmed Samir,Pass,0
+2015211,Hossam Paulo,0,Away,Mahmoud Ezzat,Penalty,1
+2015212,Ibrahim Abdel-Khalik,0,Away,Mohamed Adel Gomaa,Cross,0
+2015213,Ahmed Sherwyda,0,Away,None,Unknown,0
+2015213,Osama Ibrahim,1,Home,None,Unknown,0
+2015214,Mahmoud Fathallah,0,Home,None,Unknown,0
+2015214,Gedo,0,Home,Walid Hassan,Pass,0
+2015214,Nana Poku,0,Away,Omar Najdi,Cross,0
+2015215,Moussa Dao,0,Away,None,Unknown,0
+2015215,Ahmed Kaboria,0,Away,Moussa Dao,Pass,0
+2015215,Mohamed Mosaad,0,Away,Ahmed Kaboria,Cross,0
+2015215,Ramadan Sobhi,0,Home,Elsayed Abdelaal,Handball ,1
+2015215,Hossam Ghaly,0,Home,Ramadan Sobhi,Pass,0
+2015216,Torric Jebrin,0,Away,Emmanuel Banahene,Pass,0
+2015216,Emmanuel Banahene,0,Away,Ahmed Samir,Pass,0
+2015216,Mahdi Sobhi,0,Home,Islam Gamal,Pass,0
+2015216,Ibrahim Hassan,0,Home,Islam Gamal,Pass,0
+2015218,Eric Traoré,0,Away,Mohamed El Fayoumi,Pass,0
+2015218,Eric Traoré,0,Away,Fouad Salama,Free kick,0
+2015218,Shamama,0,Home,Salah Rico,Cross,0
+2015218,Samuel Owusu,0,Home,Ahmed Adel,Cross,0
+2015220,Ashour El Adham,0,Away,None,Unknown,0
+2015221,Mohamed Fadl,0,Away,Mohamed Shaaban,Free kick,0
+2015223,Islam Mohareb,0,Home,Hossam Paulo,Header,0
+2015223,Abdallah El Said,0,Away,Malick Evouna,Pass,0
+2015223,Abdallah El Said,0,Away,Malick Evouna,Penalty,1
+2015223,Momen Zakaria,0,Away,Walid Soliman,Pass,0
+2015224,Basem Morsy,0,Home,Kahraba,Cross,0
+2015225,Asem Said,0,Home,Mohamed Gamal Treka,Pass,0
+2015225,Nana Poku,0,Away,Hussein El Shahat,Cross,0
+2015225,Hesham Mohamed,0,Away,Hussein El Shahat,Pass,0
+2015225,Nana Poku,0,Away,Mido Gaber,Cross,0
+2015226,Ahmed Kaboria,0,Away,Said Mourad,Free kick,0
+2015226,Shokry Naguib,0,Home,Mohamed Rizk,Pass,0
+2015227,Mario Martínez,0,Away,None,Unknown,0
+2015227,Salah Soliman,0,Away,Ahmed Refaat,Unknown,0
+2015227,Mario Martínez,0,Away,None,Unknown,0
+2015228,Hermann Kouao,0,Home,Mohamed Abdelmaguid,Header,0
+2015228,Hesham Shehata,1,Away,Islam Gamal,Unknown,0
+2015229,Kahraba,0,Home,Emmanuel Mayuka,Unknown,0
+2015229,Emmanuel Mayuka,0,Home,Mohamed Ibrahim,Cross,0
+2015229,Asem Salah,0,Away,None,Unknown,0
+2015230,Dodo Elgabas,0,Home,Mostafa Talaat,Unknown,0
+2015230,Hossam Hassan,0,Away,Ahmed Fawzy,Cross,0
+2015232,Marwan Mohsen,0,Home,Mohamed Dabash,Handball ,1
+2015233,Rami Rabia,0,Away,Abdallah El Said,Corner,0
+2015233,Momen Zakaria,0,Away,Walid Soliman,Cross,0
+2015233,Momen Zakaria,0,Away,Malick Evouna,Pass,0
+2015233,Ahmed Saad,1,Away,Ahmed Fathi,Corner,0
+2015234,Amr Marei,0,Away,Abdelaziz Mousa,Pass,0
+2015235,Emmanuel Mayuka,0,Away,Mohamed Ibrahim,Pass,0
+2015235,Ahmed Hamoudi,0,Away,None,Unknown,0
+2015236,Junior Mapuku,0,Away,Florent Malouda,Pass,0
+2015237,Ahmed Shedid Kenawi,0,Home,Mohamed Rizk,Free kick,0
+2015238,Hermann Kouao,0,Away,Ashour El Adham,Pass,0
+2015238,Osama Mohamed,0,Home,Mohamed Ragab,Penalty,1
+2015238,James Owoboskini,0,Home,Osama Mohamed,Cross,0
+2015238,Ahmed Magdy,0,Home,James Owoboskini,Pass,0
+2015241,Shamama,0,Home,Mohamed Bassiouny,Penalty,1
+2015241,Shamama,0,Home,Salah Rico,Cross,0
+2015241,Omar Gamal,0,Away,Ramy Adel,Unknown,0
+2015241,Ahmed Ali,0,Away,Fathi Mabrouk,Corner,0
+2015242,Shawky El Said,0,Away,Ahmed Samir Farag,Corner,0
+2015242,Hussein El Shahat,0,Home,Mahmoud Wahid,Cross,0
+2015242,Emmanuel Banahene,0,Away,Ibrahim Hassan,Pass,0
+2015242,Nana Poku,0,Home,Mido Gaber,Cross,0
+2015242,Nana Poku,0,Home,Mido Gaber,Pass,0
+2015243,Mohamed Fathi,0,Home,Ahmed Hany,Pass,0
+2015243,Mahmoud Kaoud,0,Away,Mario Martínez,Free kick,0
+2015243,Salah Ashour,0,Away,Joël Lamah,Unknown,0
+2015243,Marwan Mohsen,0,Home,Ibrahim Hassan,Cross,0
+2015244,Ahmed Ali,0,Home,Mohamed Fadl,Header,0
+2015244,Ahmed Raouf,0,Away,Abdallah Gomaa Awad,Cross,0
+2015244,Ahmed Ali,0,Home,Omar Gamal,Cross,0
+2015245,Ragab Nabil,0,Away,Mostafa Talaat,Free kick,0
+2015245,Dodo Elgabas,0,Away,Mohamed Helal,Pass,0
+2015246,Mohamed Ibrahim,0,Home,Emmanuel Mayuka,Pass,0
+2015246,Mohamed Ibrahim,0,Home,Ahmed Hamoudi,Pass,0
+2015247,Rami Rabia,0,Away,Ahmed Fathi,Corner,0
+2015247,Malick Evouna,0,Away,Ahmed Fathi,Cross,0
+2015247,Abdallah El Said,0,Away,Ahmed Hegazy,Header,0
+2015247,Momen Zakaria,0,Away,Ramadan Sobhi,Pass,0
+2015248,Asem Said,0,Home,None,Unknown,0
+2015249,Mohamed Rizk,0,Home,None,Unknown,0
+2015249,Mostafa Kalosha,0,Away,Khaled Kassab,Penalty,1
+2015249,Ahmed Eid,0,Home,Arafa El Sayed,Penalty,1
+2015250,Mahmoud Sayed,0,Away,Mansou Kouakou,Pass,0
+2015250,Salah Amin,0,Home,None,Unknown,0
+2015251,Abdul Latif Abubakari,1,Home,Ashour El Adham,Cross,0
+2015252,Mohamed Sherif,0,Home,Junior Mapuku,Pass,0
+2015253,Ahmed Magdy,1,Home,Walid Soliman,Unknown,0
+2015253,John Antwi,0,Home,Sabri Rahil,Cross,0
+2015254,Ahmed Sedik,0,Away,None,Unknown,0
+2015254,Ahmed Raouf,0,Home,Ahmed Kaboria,Free kick,0
+2015254,Ahmed Gomaa,0,Home,Ahmed Kaboria,Cross,0
+2015254,Said Mourad,0,Home,None,Unknown,0
+2015254,Saleh Mousa,0,Away,Asem Said,Pass,0
+2015255,Hossam Abdel-Aal,0,Home,Samuel Owusu,Penalty,1
+2015255,Omar Kamal,0,Home,Khaled El Ghandour,Pass,0
+2015256,Islam Masoud,0,Away,Amr Othman,Unknown,0
+2015258,Ramy Adel,0,Away,Ahmed Ali,Penalty,1
+2015258,Mohamed Shaaban,0,Away,Mohamed Fadl,Pass,0
+2015259,Kahraba,0,Away,None,Unknown,0
+2015259,Basem Morsy,0,Away,Kahraba,Pass,0
+2015259,Elsayed Hamdi,0,Home,Hosny Fathi,Cross,0
+2015259,Kahraba,0,Away,Mostafa Fathi,Pass,0
+2015260,Ahmed Refaat,0,Home,Mohamed Nasef,Cross,0
+2015260,Ahmed Abdelzaher,0,Home,Mohamed Nasef,Cross,0
+2015260,Joël Lamah,0,Home,Osama Ibrahim,Cross,0
+2015261,Ashour El Adham,0,Home,None,Unknown,0
+2015262,Ibrahim Hassan,0,Home,Marwan Mohsen,Cross,0
+2015262,Ahmed Raouf,0,Away,Said Mourad,Pass,0
+2015263,Mohamed Hamdi,0,Away,Ahmed Homos,Cross,0
+2015264,James Owoboskini,0,Away,Ayman Said,Corner,0
+2015264,Mohamed Khalifa,0,Home,Mohamed Fakhri,Corner,0
+2015265,Mahmoud Fathallah,0,Home,Walid Hassan,Penalty,1
+2015265,Mahmoud Alaa,0,Away,Junior Mapuku,Pass,0
+2015266,Shokry Naguib,1,Home,None,Unknown,0
+2015267,Malick Evouna,0,Away,Abdallah El Said,Unknown,0
+2015267,Malick Evouna,0,Away,Walid Soliman,Unknown,0
+2015267,Momen Zakaria,0,Away,Malick Evouna,Cross,0
+2015268,Kahraba,0,Home,Mohamed Adel Gomaa,Cross,0
+2015270,Hossam Hassan,0,Home,Mahmoud Sayed,Cross,0
+2015270,Emmanuel Banahene,0,Away,Ibrahim Hassan,Cross,0
+2015270,Taha Adel,0,Away,Emad Hamdi,Header,0
+2015270,Karim Bambo,0,Away,Ibrahim Hassan,Cross,0
+2015270,Hossam Paulo,0,Home,Taha Adel,Handball ,1
+2015270,Hossam Paulo,0,Home,Ahmed Temsah,Cross,0
+2015271,Karim Mostafa,0,Away,Karim El Deeb,Cross,0
+2015271,Mahmoud Alaa,0,Home,Florent Malouda,Cross,0
+2015272,Mohamed Farouk,0,Away,Mahmoud Mubarak,Cross,0
+2015272,Belal Gamal,0,Home,Amr Hassan,Free kick,0
+2015272,Hossam Hassan,1,Away,None,Unknown,0
+2015273,Malick Evouna,0,Home,Momen Zakaria,Pass,0
+2015273,Malick Evouna,0,Home,None,Unknown,0
+2015274,Hesham Mohamed,0,Home,None,Unknown,0
+2015275,Arafa El Sayed,0,Away,Mohamed Rizk,Pass,0
+2015275,Ahmed Abdelzaher,0,Home,None,Unknown,0
+2015275,Ibrahim Yehia,0,Home,Osama Ibrahim,Corner,0
+2015276,Mohamed Mosaad,0,Home,Ahmed Kaboria,Pass,0
+2015276,Said Mourad,0,Home,None,Unknown,0
+2015277,Gedo,0,Away,Shehab Ahmed,Pass,0
+2015277,Salah Amin,0,Away,Shehab Ahmed,Pass,0
+2015278,Mohamed Ibrahim,0,Away,Kahraba,Pass,0
+2015278,Basem Morsy,0,Away,Ahmed Adel,Handball ,1
+2015278,Mostafa Fathi,0,Away,Mohamed Ibrahim,Pass,0
+2015278,Said Kamal,0,Home,None,Unknown,0
+2015278,Salah Rico,0,Home,None,Unknown,0
+2015280,Gedo,0,Away,Salah Amin,Pass,0
+2015280,Ahmed Magdy,0,Away,None,Unknown,0
+2015280,Mahmoud Fathallah,0,Away,Hassan El Shami,Corner,0
+2015281,Islam Fouad,0,Home,Gebna,Pass,0
+2015281,Islam Fouad,0,Home,Onosh,Pass,0
+2015282,Shemeles Bekele,0,Home,Osama Mohamed,Free kick,0
+2015282,Shemeles Bekele,0,Home,Mohamed Ramadan,Pass,0
+2015282,Omar Najdi,0,Away,Hussein El Shahat,Cross,0
+2015282,Omar Najdi,0,Away,None,Unknown,0
+2015282,Shemeles Bekele,0,Home,Belal Gamal,Cross,0
+2015283,Amr Marei,0,Home,None,Unknown,0
+2015283,Asem Said,0,Home,Mohamed Gamal Treka,Pass,0
+2015284,Mohamed Hamdi,0,Away,Hossam Hassan,Penalty,1
+2015285,Ahmed Eid,0,Home,Mohamed Said,Handball ,1
+2015285,Ahmed Eid,0,Home,Mohamed Ashraf Roqa,Pass,0
+2015286,Ramadan Sobhi,0,Away,Momen Zakaria,Header,0
+2015286,Walid Soliman,0,Away,None,Unknown,0
+2015286,Emmanuel Banahene,0,Home,Islam Gamal,Header,0
+2015287,Mohamed Mosaad,0,Away,None,Unknown,0
+2015287,Mohamed Ibrahim,0,Home,None,Unknown,0
+2015287,Mohamed Ashraf,0,Away,Mohamed Mosaad,Unknown,0
+2015287,Basem Morsy,0,Home,None,Unknown,0
+2015288,Yaya Traoré,0,Home,None,Unknown,0
+2015288,Omar Kamal,0,Home,Said Kamal,Cross,0
+2015288,Yaya Traoré,0,Home,Mohamed Abdelsalam,Free kick,0
+2015289,Momen Atef,0,Home,None,Unknown,0
+2015290,Islam Fouad,0,Away,None,Unknown,0
+2015290,Salah Amin,0,Home,Mohamed Farouk,Cross,0
+2015290,Mahmoud Fathallah,0,Home,Shehab Ahmed,Penalty,1
+2015291,Amr El Halwani,0,Home,None,Unknown,0
+2015292,Hussein Ragab,0,Away,Hussein El Shahat,Corner,0
+2015292,Ahmed Abdelkader,0,Home,Ahmed Abdelkader,Penalty,1
+2015293,Hosny Abd Rabo,0,Away,None,Unknown,0
+2015293,Ibrahim Hassan,0,Away,Abdelrahman Hassan,Pass,0
+2015295,Emad Meteb,0,Home,Hossam Ghaly,Header,0
+2015295,Ahmed Elalfi,0,Away,Youssef Obama,Cross,0
+2015296,Basem Morsy,0,Away,Mohamed Ibrahim,Pass,0
+2015296,Mahmoud Ezzat,0,Home,Ahmed Manga,Cross,0
+2015297,Mohamed El Shami,0,Away,None,Unknown,0
+2015297,Mohamed Ahmed,0,Away,Afsha,Cross,0
+2015298,Shemeles Bekele,0,Home,Ahmed Magdy,Pass,0
+2015298,Shemeles Bekele,0,Home,Mostafa Shebeita,Header,0
+2015298,Mostafa Shebeita,0,Home,None,Unknown,0
+2015299,Emmanuel Banahene,0,Home,Ahmed Samir Farag,Unknown,0
+2015299,Marwan Mohsen,0,Home,Saad Hosny,Cross,0
+2015300,Minusu Buba,0,Home,Abdelaziz Mousa,Cross,0
+2015300,Mohamed Farouk,0,Away,Ahmed Magdy,Cross,0
+2015300,Abdelrahman El Sewisi,0,Home,Hossam Abdelgawad,Free kick,0
+2015301,Mohamed Fadl,0,Home,Zizo,Penalty,1
+2015302,Mohamed Mosaad,0,Away,Ahmed Kaboria,Cross,0
+2015302,Mahdi Sobhi,0,Home,Mohamed Yehia,Free kick,0
+2015302,Mohamed Ali,0,Home,None,Unknown,0
+2015302,Ahmed Yasser,0,Away,None,Unknown,0
+2015303,Hossam Paulo,0,Away,Ahmed Temsah,Corner,0
+2015304,Mohamed Adel,0,Home,Mohamed Abdelmaguid,Penalty,1
+2015304,Stanley Ohawuchi,0,Away,Florent Malouda,Corner,0
+2015304,Mahmoud Alaa,0,Away,Florent Malouda,Free kick,0
+2015304,Hermann Kouao,0,Home,Ahmed Naser,Cross,0
+2015304,Hossam Arafat,0,Away,Omar Marmoush,Unknown,0
