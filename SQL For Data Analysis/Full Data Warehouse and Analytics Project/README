@@ -1,4 +1,4 @@
-# 🏗️ SQL Data Warehouse & Analytics Project
+#🏗️ SQL Data Warehouse & Analytics Project
 
 ## 📖 Project Overview
 
@@ -9,7 +9,7 @@ It follows the **Medallion Architecture** (Bronze → Silver → Gold) to effici
 The final layer powers a comprehensive suite of SQL analytics, providing actionable business intelligence on sales performance, customer behavior, and product trends.
 
 
-# **🏗️ Architecture & Data Pipeline**
+# 🏗️ Architecture & Data Pipeline
 
 The project is structured into three distinct layers to ensure data quality, reliability, and performance:
 
