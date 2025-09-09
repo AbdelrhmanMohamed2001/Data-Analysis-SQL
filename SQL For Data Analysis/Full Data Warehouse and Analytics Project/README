@@ -1,4 +1,4 @@
-#🏗️ SQL Data Warehouse & Analytics Project
+# 🏗️ SQL Data Warehouse & Analytics Project
 
 ## 📖 Project Overview
 
@@ -13,7 +13,7 @@ The final layer powers a comprehensive suite of SQL analytics, providing actiona
 
 The project is structured into three distinct layers to ensure data quality, reliability, and performance:
 
-## **1. 🥉 Bronze Layer (Raw Staging)**
+## 1. 🥉 Bronze Layer (Raw Staging)
 
 **Purpose:** Initial ingestion of raw data from source systems.
 
@@ -22,7 +22,7 @@ The project is structured into three distinct layers to ensure data quality, rel
 **Key Feature:** Acts as a historical archive, preserving source data in its original form for full auditability.
 
 
-## **2. 🥈 Silver Layer (Cleansed & Enriched)**
+## 2. 🥈 Silver Layer (Cleansed & Enriched)
 
 **Purpose:** Data cleansing, standardization, and integration.
 
@@ -41,7 +41,7 @@ ID Normalization for consistent joins.
 **Outcome:** Creates a single, trusted source of truth by merging and refining data from both CRM and ERP systems.
 
 
-## **3. 🥇 Gold Layer (Business-Ready Schema)**
+## 3. 🥇 Gold Layer (Business-Ready Schema)
 
 **Purpose:** Model data into an optimized star schema for analytics.
 
@@ -55,7 +55,7 @@ ID Normalization for consistent joins.
 
 
 
-# **📊 Analytics & Business Insights**
+## 📊 Analytics & Business Insights
 The Gold layer enables deep analysis through a series of SQL queries designed to answer critical business questions:
 
 **Performance Analysis:** Identified top 10 customers and top/bottom 5 products by revenue.
@@ -68,7 +68,7 @@ The Gold layer enables deep analysis through a series of SQL queries designed to
 
 **Customer Segmentation:** Classified customers into VIP, Regular, and New based on lifetime value and tenure.
 
-# **🛠️ Technical Skills Demonstrated**
+## 🛠️ Technical Skills Demonstrated
 **Database:** Microsoft SQL Server
 
 **Architecture:** Medallion Architecture
