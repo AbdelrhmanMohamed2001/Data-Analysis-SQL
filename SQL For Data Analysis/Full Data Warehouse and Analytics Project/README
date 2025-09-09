@@ -4,89 +4,65 @@
 
 This project demonstrates the end-to-end construction of a scalable **Data Warehouse** using **Microsoft SQL Server**.
 
-It follows the **Medallion Architecture** (Bronze → Silver → Gold) to efficiently ingest, clean, transform, and model raw data from disparate sources (CRM & ERP systems) into a structured analytics-ready format.
+It follows the **Medallion Architecture** (**Bronze → Silver → Gold**) to efficiently ingest, clean, transform, and model raw data from disparate sources (**CRM & ERP systems**) into a structured analytical framework.
 
 The final layer powers a comprehensive suite of SQL analytics, providing actionable business intelligence on sales performance, customer behavior, and product trends.
 
+---
 
 # 🏗️ Architecture & Data Pipeline
 
 The project is structured into three distinct layers to ensure data quality, reliability, and performance:
 
-## 1. 🥉 Bronze Layer (Raw Staging)
+## 1. 🥉 **Bronze Layer (Raw Staging)**
 
-**Purpose:** Initial ingestion of raw data from source systems.
+- **Purpose:** Initial ingestion of raw data from source systems.
+- **Process:** CSV files from CRM (`cust_info`, `prd_info`, `sales_details`) and ERP (`CUST_AZ12`, `LOC_A101`, `PX_CAT_G1V2`) systems are bulk-loaded into SQL tables via stored procedures.
+- **Key Feature:** Acts as a historical archive, preserving source data in its original form for full auditability.
 
-**Process:** CSV files from CRM (cust_info, prd_info, sales_details) and ERP (CUST_AZ12, LOC_A101, PX_CAT_G1V2) systems are bulk-loaded into SQL tables via stored procedures.
+## 2. 🥈 **Silver Layer (Cleansed & Enriched)**
 
-**Key Feature:** Acts as a historical archive, preserving source data in its original form for full auditability.
+- **Purpose:** Data cleansing, standardization, and integration.
+- **Key Transformations:**
+  - **Deduplication** of customer records.
+  - **Standardization** of values (e.g., marital status, country names).
+  - **Data Validation** (e.g., correcting invalid dates).
+  - **Text Cleaning** and null handling.
+  - **ID Normalization** for consistent joins.
+- **Outcome:** Creates a single, trusted source of truth by merging and refining data from both CRM and ERP systems.
 
+## 3. 🥇 **Gold Layer (Business-Ready Schema)**
 
-## 2. 🥈 Silver Layer (Cleansed & Enriched)
+- **Purpose:** Model data into an optimized star schema for analytics.
+- **Structure:**
+  - **Dimensions:** `dim_customers`, `dim_products`
+  - **Facts:** `fact_sales`
+- **Process:** Applies final business logic and joins to create intuitive, query-friendly tables ready for reporting.
 
-**Purpose:** Data cleansing, standardization, and integration.
-
-**Key Transformations:**
-
-Deduplication of customer records.
-
-Standardization of values (e.g., marital status, country names).
-
-Data Validation (e.g., correcting invalid dates).
-
-Text Cleaning and null handling.
-
-ID Normalization for consistent joins.
-
-**Outcome:** Creates a single, trusted source of truth by merging and refining data from both CRM and ERP systems.
-
-
-## 3. 🥇 Gold Layer (Business-Ready Schema)
-
-**Purpose:** Model data into an optimized star schema for analytics.
-
-**Structure:**
-
-**Dimensions:** dim_customers, dim_products
-
-**Facts:** fact_sales
-
-**Process:** Applies final business logic and joins to create intuitive, query-friendly tables ready for reporting.
-
-
+---
 
 ## 📊 Analytics & Business Insights
-The Gold layer enables deep analysis through a series of SQL queries designed to answer critical business questions:
 
-**Performance Analysis:** Identified top 10 customers and top/bottom 5 products by revenue.
+The Gold layer enables deep analysis through SQL queries designed to answer critical business questions:
 
-**Trend Analysis:** Calculated Year-Over-Year (YoY) sales growth and cumulative running totals.
+- **Performance Analysis:** Identify top 10 customers and top/bottom 5 products by revenue.
+- **Trend Analysis:** Calculate Year-Over-Year (YoY) sales growth and cumulative running totals.
+- **Geographic Analysis:** Break down sales and customers by country.
+- **Product Analysis:** Revenue contribution by category and product cost segmentation.
+- **Customer Segmentation:** Classify customers into VIP, Regular, and New based on lifetime value and tenure.
 
-**Geographic Analysis:** Broke down sales and customers by country.
-
-**Product Analysis:** Revenue contribution by category and product cost segmentation.
-
-**Customer Segmentation:** Classified customers into VIP, Regular, and New based on lifetime value and tenure.
+---
 
 ## 🛠️ Technical Skills Demonstrated
-**Database:** Microsoft SQL Server
 
-**Architecture:** Medallion Architecture
-
-**ETL/ELT:** BULK INSERT, Stored Procedures, Data Truncation
-
-**Data Modeling:** Star Schema, Dimension & Fact Tables
-
-**Data Transformation:** Deduplication, Standardization, Validation, Type Casting
-
-**Advanced SQL:**
-
-Window Functions (ROW_NUMBER(), LAG(), DENSE_RANK())
-
-CTEs, Subqueries
-
-Conditional Logic (CASE statements)
-
-Date Functions (DATEDIFF, DATETRUNC)
-
-Joins & Aggregations (SUM, COUNT, AVG)
+- **Database:** Microsoft SQL Server
+- **Architecture:** Medallion Architecture
+- **ETL/ELT:** BULK INSERT, Stored Procedures, Data Truncation
+- **Data Modeling:** Star Schema, Dimension & Fact Tables
+- **Data Transformation:** Deduplication, Standardization, Validation, Type Casting
+- **Advanced SQL:**
+  - Window Functions (`ROW_NUMBER()`, `LAG()`, `DENSE_RANK()`)
+  - CTEs, Subqueries
+  - Conditional Logic (`CASE` statements)
+  - Date Functions (`DATEDIFF`, `DATETRUNC`)
+  - Joins & Aggregations (`SUM`, `COUNT`, `AVG`)
